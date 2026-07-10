@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="プレイ人数と遊び方から、Steamで遊びたいゲーム候補を探せるレビュー分析ツールです。" />
+  <title>Quick Match</title>
+  <link rel="stylesheet" href="style.css?v=20260710-1955" />
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar">
+      <div>
+        <p class="kicker">Quick Match</p>
+        <h1>人数で探すゲーム候補</h1>
+      </div>
+      <p class="topbar__copy">友達と遊ぶ日、ひとりで遊ぶ夜。人数と遊び方から候補を絞ります。</p>
+    </header>
+
+    <main class="layout">
+      <aside class="filters" aria-label="検索条件">
+        <div class="filters__header">
+          <span class="status-dot" aria-hidden="true"></span>
+          <h2>条件</h2>
+        </div>
+
+        <div class="field">
+          <label for="playerCount">プレイ人数</label>
+          <input id="playerCount" type="number" min="1" max="20" value="2" inputmode="numeric" />
+        </div>
+
+        <div class="quick-picks" aria-label="人数の候補">
+          <button class="chip" type="button" data-players="1">1人</button>
+          <button class="chip is-active" type="button" data-players="2">2人</button>
+          <button class="chip" type="button" data-players="4">4人</button>
+          <button class="chip" type="button" data-players="8">8人</button>
+        </div>
+
+        <div class="field">
+          <label for="playStyle">遊び方</label>
+          <select id="playStyle">
+            <option value="any">どちらでもよい</option>
+            <option value="coop">協力プレイ</option>
+            <option value="versus">対戦プレイ</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="playerFit">人数条件</label>
+          <select id="playerFit">
+            <option value="range">対応人数に入る</option>
+            <option value="reviewMention">レビューで言及あり</option>
+            <option value="exact">ちょうど人数</option>
+            <option value="atLeast">その人数以上で遊べる</option>
+            <option value="near">近い人数も含める</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="titleSearch">タイトル検索</label>
+          <input id="titleSearch" type="search" placeholder="Stardew など" />
+        </div>
+
+        <div class="field">
+          <label for="priceFilter">価格条件</label>
+          <select id="priceFilter">
+            <option value="any">指定なし</option>
+            <option value="free">無料</option>
+            <option value="sale">セール中</option>
+            <option value="under1000">1,000円以下</option>
+            <option value="under3000">3,000円以下</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="languageFilter">言語条件</label>
+          <select id="languageFilter">
+            <option value="any">指定なし</option>
+            <option value="japanese">日本語対応</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="reviewFilter">レビュー件数</label>
+          <select id="reviewFilter">
+            <option value="any">指定なし</option>
+            <option value="100">100件以上</option>
+            <option value="1000">1,000件以上</option>
+            <option value="10000">10,000件以上</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="sortMode">並び替え</label>
+          <select id="sortMode">
+            <option value="score">おすすめ度順</option>
+            <option value="discount">割引率が高い順</option>
+            <option value="price">安い順</option>
+            <option value="players">人数が近い順</option>
+            <option value="title">タイトル順</option>
+          </select>
+        </div>
+
+        <div class="filter-actions">
+          <button id="shareBtn" class="utility-button" type="button">条件リンクをコピー</button>
+          <button id="resetBtn" class="utility-button utility-button--ghost" type="button">条件をリセット</button>
+        </div>
+
+        <p id="dataStatus" class="data-status">ゲームデータを読み込んでいます。</p>
+
+        <section class="saved-panel" aria-label="候補キープ">
+          <div class="saved-panel__header">
+            <h2>候補キープ</h2>
+            <button id="clearSavedBtn" type="button">クリア</button>
+          </div>
+          <div id="savedList" class="saved-list"></div>
+        </section>
+      </aside>
+
+      <section class="workspace">
+        <section class="spotlight">
+          <div class="spotlight__image" aria-hidden="true"></div>
+          <div class="spotlight__content">
+            <p class="kicker">Quick Match</p>
+            <h2>今日のメンバーで遊びやすいゲームを先に見る</h2>
+            <p>レビュー文の人数表現、対応人数、協力/対戦タグ、価格・セール情報を合わせてスコア化します。</p>
+          </div>
+        </section>
+
+        <section class="summary" aria-live="polite">
+          <div>
+            <p class="kicker">結果</p>
+            <h2 id="resultTitle">読み込み中</h2>
+          </div>
+          <p id="resultMeta" class="result-meta">ゲームデータを確認しています。</p>
+        </section>
+
+        <section id="resultList" class="result-list" aria-label="おすすめゲーム一覧"></section>
+      </section>
+    </main>
+  </div>
+
+  <dialog id="gameModal" class="modal">
+    <div class="modal__header">
+      <div>
+        <p class="kicker">Game Detail</p>
+        <h2 id="modalTitle">ゲーム詳細</h2>
+      </div>
+      <button id="modalCloseBtn" class="modal__close" type="button" aria-label="閉じる">×</button>
+    </div>
+    <div id="modalBody" class="modal__body"></div>
+  </dialog>
+
+  <script src="script.js?v=20260710-1955"></script>
+</body>
+</html>
