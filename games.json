@@ -10,13 +10,13 @@
     ],
     "reviews": [
       "ver3.0からゲーム内の細かい設定が行えるようになって、今までmodを導入してできてたことが公式で設定できるようになったよ（敵のHPバー表示とかトレーダー営業時間とか収穫量の細かい倍率などなど） 過去のバージョンで1000時間以上遊んだけど、今回のアップデートは一味も二味も違う印象を持った。マジで素晴らしいよ。 あと最適化の問題なのか動作がすごく軽くなった気がする。最高だぜ。",
-      "絶対におすすめしません 長年アップデートを繰り返した結果、このゲームに残ったのは「ゾンビの世界で自由なサバイバルを楽しむこと」ではなく開発者がユーザーに嫌がらせをするためだけに作った「簡悔（簡単にクリアされたら悔しい）仕様」のゴミ要素だけです 自分はアルファ１８の頃から遊ばせてもらっていてその頃は今とは違いスキルを上げて炉や作業台を開放してクラフトする仕様でしたα19からは石器時代ガンロッカーや金庫を開けてもレベルが上がっていないとロクなアイテムが入ってない露骨なrpg要素が追加されさらにはα20ではスキルではなく",
       "バニラで慣れたら設定やMODなどで味変を自分で楽しむゾンビ転がしサンドボックスゲーム ボクセルで構成された世界のすべての建造物は攻略･破壊可能で､ 攻略した建物は拠点化してもよいし 中の家具や棚を漁ったり解体し尽くして有用な資材に分解してもよいし 集めた資材で好きな場所に自分で拠点を建ててもよい そしてやはりサンドボックスのサバイバルクラフトといえば味変が醍醐味である 私はイマーシブ(没入)と過酷なサバイバルを体験したいので､そういうMODや設定で縛りを入れ 一度死んだらワールドごと作り直しという硬派で味のあるゲー",
       "７日に一度のゾンビ襲撃に備えてコツコツ準備をして装備や建築を揃えていざ勝負。というコンセプトは大好きだし、３０日目くらいまでハマったけど、肝心の襲撃戦が拠点の仕組み云々じゃなく殴り続けるだけになりがちなのと、基本的な戦いが単調で飽きる。あと拠点を守り切った時の報酬も特にないのでモチベにならない。",
       "アップデートされ、プレイしやすい環境になったと思う 飽きがきたり物資がたりないならMODに行けばよい 気に入らない部分はmodで改善したり、高難易度で泣きを見るのもありだ 消してただゾンビを倒すゲームではない 生き残る為に必死なゲームだ、ゆとりが出来たら難易度を上げよう。別デーになる マルチは役割を決めた方がよい、自分自分は余り通じないゲームだと私は思った",
+      "絶対におすすめしません 長年アップデートを繰り返した結果、このゲームに残ったのは「ゾンビの世界で自由なサバイバルを楽しむこと」ではなく開発者がユーザーに嫌がらせをするためだけに作った「簡悔（簡単にクリアされたら悔しい）仕様」のゴミ要素だけです 自分はアルファ１８の頃から遊ばせてもらっていてその頃は今とは違いスキルを上げて炉や作業台を開放してクラフトする仕様でしたα19からは石器時代ガンロッカーや金庫を開けてもレベルが上がっていないとロクなアイテムが入ってない露骨なrpg要素が追加されさらにはα20ではスキルではなく",
       "長いベータ版からリリースされて早二年ですが、 言ってしまえば昔のゲームではあるので最近のゲームと比較するとすこし物足りなさ等、「う～ん...」となる部分はあります。 しかし、その部分を許容できれば普通にゾンビアポカリプス系サンドボックスゲームとして非常に面白いゲームなので個人的にはオススメです。 自分はフレンドがいないので、基本ソロプレイでしたが動画などを見る限り、複数人でプレイするともっと面白いっぽいです。経験がないのでわかりませんが。 Q,こういうゲームを一緒にできるフレンドってどこにいますか？ A,そこになけ",
       "バージョンアップするたびに無限に遊べる最強のゲームです。 クラフト、ゾンビサバイバル、FPSが好きならきっと楽しめます。",
-      "このゲームは非常に素晴らしいゲームです。 しかし、面白すぎて気づけば４時間とか経っていることが多いの時間に余裕のある学生やニートなどにおすすめです。 最初は天井をみているほうがおもしろいです。 がんばってゲームを進めていきましょう。"
+      "そこら辺にある建物一つ一つがプチダンジョンでおもろい"
     ],
     "price": {
       "isFree": false,
@@ -32,14 +32,14 @@
       "supportedLanguages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, イタリア語, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ, 中国語（繁体字）, トルコ語"
     },
     "reviewSummary": {
-      "totalReviews": 3449,
-      "totalPositive": 3002,
-      "totalNegative": 447,
+      "totalReviews": 3451,
+      "totalPositive": 3003,
+      "totalNegative": 448,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1784309245",
     "steamUrl": "https://store.steampowered.com/app/251570/",
-    "updatedAt": 1784405430
+    "updatedAt": 1784492030
   },
   {
     "appId": 813780,
@@ -75,7 +75,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg?t=1780505425",
     "steamUrl": "https://store.steampowered.com/app/813780/",
-    "updatedAt": 1784405407
+    "updatedAt": 1784492011
   },
   {
     "appId": 933110,
@@ -109,7 +109,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/933110/header.jpg?t=1756156214",
     "steamUrl": "https://store.steampowered.com/app/933110/",
-    "updatedAt": 1784405410
+    "updatedAt": 1784492013
   },
   {
     "appId": 1466860,
@@ -144,7 +144,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg?t=1780854334",
     "steamUrl": "https://store.steampowered.com/app/1466860/",
-    "updatedAt": 1784405409
+    "updatedAt": 1784492012
   },
   {
     "appId": 945360,
@@ -185,7 +185,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1781287930",
     "steamUrl": "https://store.steampowered.com/app/945360/",
-    "updatedAt": 1784405307
+    "updatedAt": 1784491913
   },
   {
     "appId": 2399830,
@@ -197,14 +197,14 @@
       "versus"
     ],
     "reviews": [
-      "おすすめしません。ゲーム自体はかなり面白いです。 ですが、あまりにも多いバグ、開発は新しい要素の追加や有料DLCを出すより先に直した方が良い位と思います。何時間も何時間もプレイして手に入れた恐竜が消滅する。これがARKです。 また、ユーザーがサーバーを立てる場合、問題はさらに深刻です。異常にメモリを使用し、意味不明なバグやエラーが出ることがあります。アップデートで直していけばよいと考えているのでしょうが、致命的な欠陥を抱えたままリリースするのはやめて頂きたいです。",
       "ARK: Genesis Ascended Part 1のDLにて絶望したのでレビュー まず、ゲーム全体の動作が非常に重く、高スペックPCでもフレームレートが安定せず、快適にプレイすることが困難です。特にGenesis最大の売りである海洋エリアでは処理負荷が極端に高く、戦闘や探索中にカクつきやラグが頻発します。その結果、本来楽しめるはずのゲームプレイがストレスに変わってしまっています。 また、公式サーバーの数が少なすぎるため、多くのサーバーが満員状態となり、新規プレイヤーや復帰勢がまともに遊べる環境が整っていません",
-      "アプデの空き領域が足りないといわれ１００ギガ近く開けたのにも関わらずできなかったです",
-      "旧ARKと比べてたら色んな事が便利になった・グラフィックもめちゃ綺麗です でも・・・・今は集金DLCしか見えないです 旧ARKは神ゲーなのに・リメイク版が・・・・残念です",
       "確かに面白いがスペックが足りない人はやらない方がいい。設定を下げると恐竜の顔とか影がひどくなる。やるなら中途半端なPCよりスペックが十分あるPCを使ってやる方がいい。",
+      "旧ARKと比べてたら色んな事が便利になった・グラフィックもめちゃ綺麗です でも・・・・今は集金DLCしか見えないです 旧ARKは神ゲーなのに・リメイク版が・・・・残念です",
+      "アプデの空き領域が足りないといわれ１００ギガ近く開けたのにも関わらずできなかったです",
       "アプデの仕様マジ無理。このゲームのためだけに1TBのSSDが用意できないような奴は絶対買うな。",
       "恐竜などに乗っかってどんどん強くしていくゲーム、面白いがマイクラのようにネットで知識を調べることが前提のゲームなので注意",
-      "無料で無印版を入手した時にプレイしてみて面白かったので今回は自腹で購入。 サバイバー死亡時に死体が裏世界に消失するバグが低確率で起きるものの、こまめにゲームデータのバックアップを取っておけばある程度は対策が可能なので長く楽しめています。 発売したばかりの頃はPCのスペック不足でまともにプレイできなかったけど、新調した今では無問題。 「なけなしの金をはたいて揃えたminiLEDのWQHDモニターとRTX5070のPCはこの為だったのか！」 そう思えるほどに進化したゲームの作り込みに感動しています。 いつのまにかプレイ"
+      "無料で無印版を入手した時にプレイしてみて面白かったので今回は自腹で購入。 サバイバー死亡時に死体が裏世界に消失するバグが低確率で起きるものの、こまめにゲームデータのバックアップを取っておけばある程度は対策が可能なので長く楽しめています。 発売したばかりの頃はPCのスペック不足でまともにプレイできなかったけど、新調した今では無問題。 「なけなしの金をはたいて揃えたminiLEDのWQHDモニターとRTX5070のPCはこの為だったのか！」 そう思えるほどに進化したゲームの作り込みに感動しています。 いつのまにかプレイ",
+      "開発・運営がゴミ。 それ以外に言い表す言葉を私は知りません。 ゲーム自体は素晴らしいと思います。 ずっと昔からそうですが、アップデートが遅れる際の情報を一切出さないこと等、ユーザーを馬鹿にしているとしか思えません。 また、公式PVPに関しては、チーター、メッシャーを放置し、対処をまったく行いません。 サーバー上のログの見方すら分かっていないのか、サーバー上でログが取れない作りにしているのか知りませんが、公式サーバーを提供・運営できる技術レベルが無いのだと思います。 動画でメッシュ、チート使用の証拠を送っても、まとも"
     ],
     "price": {
       "isFree": false,
@@ -220,14 +220,14 @@
       "supportedLanguages": "英語*, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, デンマーク語, オランダ語, 日本語, 韓国語, ポルトガル語－ブラジル, ポルトガル語－ポルトガル, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ, 中国語（繁体字）, トルコ語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 1146,
-      "totalPositive": 622,
+      "totalReviews": 1147,
+      "totalPositive": 623,
       "totalNegative": 524,
       "scoreDescription": "Mixed"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1779293241",
     "steamUrl": "https://store.steampowered.com/app/2399830/",
-    "updatedAt": 1784405433
+    "updatedAt": 1784492033
   },
   {
     "appId": 346110,
@@ -244,9 +244,9 @@
       "ARK自体の問題かと思いますが、私の構成だとまともにプレイ出来なくなっていました。 以前は1080を使用していましたが、それでも120fpsは出ていましたが、グラフィック生成が全く追いつかずに所々64グラフィックに落ちておりました。 グラフィック読み込みが完了しても、こんなにグラフィック汚かったっけ？と思うほどに相性が悪いのかもしれません。 もし、似たような環境で問題なくプレイする方法があればご教授お願いします。",
       "個人的に、サバイバルゲームの頂点に君臨している作品だと思います。 恐竜のテイム、育成、建築、探索、ボス討伐など、出来る事が本当に多く、気づけば何時間も遊んでしまいます。 ソロよりも、フレンド達とワイワイ雑談しつつやるのがおススメです。",
       "まず、起動をすると、すぐにフリーズし、数十秒後にまた動き出すもあ、フレンドとプレイするために招待を受けますが、サーバーに入ることができずホストがいないといわれ一生参加することができません、なので、このゲームは、プレイすることも許さないくそげーであります。",
-      "クラッシュ中にお気に入りの相棒が死ぬゲームだよ。 おもしろいよ。 ほんとだよ…",
       "度々、驚くような価格でセールをしているこの作品ですが、正直セールが来ていれば買いだと思います。 社会人であまり時間が無い人、学生でまだ時間に余裕がある人、なんらかの理由で時間が有り余ってる人すべての人にオススメできます。 恐竜をテイムして戦わせるのも良し、子供を産ませてより強い個体を作るのも良し、いろんな生物をテイムして動物園を作るもよし。 逆になにもテイムせず、人間の弱さ、矮小さを実感するもよし。 まぁいろんな楽しみ方があります。 恐竜をながめて愛でるのもおススメです。 しかしテリジノ、テメーはダメだ。地獄へ落ち",
-      "普通に最近のゲームは情報力が多いしこういうゲームがちょうどいい"
+      "普通に最近のゲームは情報力が多いしこういうゲームがちょうどいい",
+      "休日も溶けるし鯖移動クラッシュで恐竜も溶ける 神みたいなゲーム"
     ],
     "price": {
       "isFree": false,
@@ -269,7 +269,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg?t=1765677889",
     "steamUrl": "https://store.steampowered.com/app/346110/",
-    "updatedAt": 1784405432
+    "updatedAt": 1784492031
   },
   {
     "appId": 244210,
@@ -305,7 +305,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg?t=1782208838",
     "steamUrl": "https://store.steampowered.com/app/244210/",
-    "updatedAt": 1784405468
+    "updatedAt": 1784492071
   },
   {
     "appId": 805550,
@@ -318,7 +318,8 @@
     "reviews": [
       "操作のチュートリアルがないから操作方法が全くわからなかった......",
       "グラ良好！ 今のところ挙動にも理不尽さ感じません。 難易度別でのAIも適切な感じがします。 カジュアルゲーではないので、ドライビングは非常にムズイし、判定もシビアですので集中力いりますね。 サーキットでのレースゲームなので、キッチリ加速し車体を安定させながらキッチリ減速させるの繰り返しになりますが、この緊張感が楽しい！ まだまだ慣れておらず、コースアウトしまくりですが面白い！ 負けても、失敗しても、次こそは！ってなる。 現状パッドでプレイしてますが、あぁハンコンほしいなぁって思います。。。 やっと自分にあったレース",
-      "重いし、画質が悪い"
+      "重いし、画質が悪い",
+      "僕は無限にサーキット走る太郎。 サーキットを走れればそれでいいんだ。"
     ],
     "price": {
       "isFree": false,
@@ -341,7 +342,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/header.jpg?t=1766404577",
     "steamUrl": "https://store.steampowered.com/app/805550/",
-    "updatedAt": 1784405470
+    "updatedAt": 1784492072
   },
   {
     "appId": 361420,
@@ -378,7 +379,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/1c44099d86c824a6fd1098a4215097878d68664e/header.jpg?t=1770767049",
     "steamUrl": "https://store.steampowered.com/app/361420/",
-    "updatedAt": 1784405455
+    "updatedAt": 1784492057
   },
   {
     "appId": 1066890,
@@ -413,7 +414,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1066890/4ec180b6bc16ce430f12bfbc88f420c93cb48313/header.jpg?t=1781533387",
     "steamUrl": "https://store.steampowered.com/app/1066890/",
-    "updatedAt": 1784405471
+    "updatedAt": 1784492073
   },
   {
     "appId": 1086940,
@@ -454,7 +455,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
     "steamUrl": "https://store.steampowered.com/app/1086940/",
-    "updatedAt": 1784405333
+    "updatedAt": 1784491940
   },
   {
     "appId": 602960,
@@ -489,7 +490,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/header.jpg?t=1776271911",
     "steamUrl": "https://store.steampowered.com/app/602960/",
-    "updatedAt": 1784405340
+    "updatedAt": 1784491947
   },
   {
     "appId": 671860,
@@ -523,7 +524,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671860/header.jpg?t=1730393449",
     "steamUrl": "https://store.steampowered.com/app/671860/",
-    "updatedAt": 1784405358
+    "updatedAt": 1784491966
   },
   {
     "appId": 1517290,
@@ -560,7 +561,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1777324359",
     "steamUrl": "https://store.steampowered.com/app/1517290/",
-    "updatedAt": 1784405352
+    "updatedAt": 1784491960
   },
   {
     "appId": 1238810,
@@ -571,6 +572,7 @@
       "versus"
     ],
     "reviews": [
+      "キャンペーン目的で購入。 データが保存されないという致命的なバグのせいで毎回手動でファイルをリネームする羽目に。 他にも色々と挙動が怪しくてクオリティが低い。",
       "5回連続出撃画面に戻される、バグでリスができない、武器を変えたり発砲ができない、そもそもマッチに参加できない、距離があるとスモークが透ける。500円の価値もない。",
       "個人的にはおすすめはしない。 【総評】おもしろいが、ゲームの方向性の振り方を間違えた感じはする。（あくまで私個人の意見です！） ①オンラインプレイ 現代的なスポーツ的ＦＰＳとロマン型のＦＰＳを混ぜてしまったような印象を散見する。 参入できないわけではないが、ＢＦ６のほうがおすすめ。 ②ソロプレイ ストーリー自体はとても好きな部類。非常に面白い。だがもろもろのバグが多く、特にセーブデータの仕組 みを理解するまでは苦戦を強いられる。",
       "無限にチュートリアルが繰り返されるバグがある。 調べたら解決策はあるが７年前からあるバグのようだ。 いつまで放置しとんねん。",
@@ -597,7 +599,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365",
     "steamUrl": "https://store.steampowered.com/app/1238810/",
-    "updatedAt": 1784405351
+    "updatedAt": 1784491959
   },
   {
     "appId": 582660,
@@ -634,7 +636,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/066578726531e33ce0080d3931d59256ac791e4d/header_alt_assets_27_japanese.jpg?t=1773974827",
     "steamUrl": "https://store.steampowered.com/app/582660/",
-    "updatedAt": 1784405425
+    "updatedAt": 1784492027
   },
   {
     "appId": 49520,
@@ -668,7 +670,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1751931279",
     "steamUrl": "https://store.steampowered.com/app/49520/",
-    "updatedAt": 1784405388
+    "updatedAt": 1784491995
   },
   {
     "appId": 291550,
@@ -705,7 +707,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/5ae7086dc28d88e79c1c20f4704019f4b5b446aa/header_alt_assets_9.jpg?t=1781703568",
     "steamUrl": "https://store.steampowered.com/app/291550/",
-    "updatedAt": 1784405376
+    "updatedAt": 1784491984
   },
   {
     "appId": 204360,
@@ -717,8 +719,8 @@
       "versus"
     ],
     "reviews": [
-      "[h1]ゲーム部分は面白いが、グロくてネタが汚い[/h1] 繰り返しになりますが、ゲームとしては面白いです 一方で、戦争を描いた内容なため、所々に血などの演出が有ります（出血エフェクトはOFFにできる） それはまだ良いのですが、動物とはいえ排泄物ネタが割と頻繁に出てきたので不快になり、返品しました 注意として書いておいてほしかったです",
-      "めちゃくちゃ面白いです"
+      "めちゃくちゃ面白いです！家族とワイワイやりましたが、みんな飽きることなくクリアしました！DLCもパープルナイト以外は全て買いましたが、1番オススメなのは「Painter BOSS PARADISE」です。好きなキャラクターも簡単に作れますし、ワークショップで気に入ったキャラクターを使うこともできるので、ハマったら買いましょう。欠点は流血表現(設定でオフれる)が頻繁にあることと下品な描写があることです。",
+      "[h1]ゲーム部分は面白いが、グロくてネタが汚い[/h1] 繰り返しになりますが、ゲームとしては面白いです 一方で、戦争を描いた内容なため、所々に血などの演出が有ります（出血エフェクトはOFFにできる） それはまだ良いのですが、動物とはいえ排泄物ネタが割と頻繁に出てきたので不快になり、返品しました 注意として書いておいてほしかったです"
     ],
     "price": {
       "isFree": false,
@@ -741,7 +743,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg?t=1764096331",
     "steamUrl": "https://store.steampowered.com/app/204360/",
-    "updatedAt": 1784405313
+    "updatedAt": 1784491918
   },
   {
     "appId": 2567870,
@@ -776,7 +778,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567870/header.jpg?t=1780398049",
     "steamUrl": "https://store.steampowered.com/app/2567870/",
-    "updatedAt": 1784405338
+    "updatedAt": 1784491944
   },
   {
     "appId": 1824220,
@@ -817,7 +819,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/header.jpg?t=1744201613",
     "steamUrl": "https://store.steampowered.com/app/1824220/",
-    "updatedAt": 1784405359
+    "updatedAt": 1784491967
   },
   {
     "appId": 2881650,
@@ -852,7 +854,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg?t=1775640428",
     "steamUrl": "https://store.steampowered.com/app/2881650/",
-    "updatedAt": 1784405337
+    "updatedAt": 1784491943
   },
   {
     "appId": 730,
@@ -863,14 +865,14 @@
       "versus"
     ],
     "reviews": [
-      "中国人とは比にならないほどロシア人の民度が低すぎておったまげる。 プレミアでもほぼ毎試合トロールが一人はいてラウンド開始時のFFやTKは日常茶飯事だし、AFKや途中抜けも多すぎてまともに試合にならないことも多い。 それでもたまに遊びたくなるくらいゲーム自体は面白いんだけどね…",
       "既に10年間くらいプレイしているので今更感はあるけど一応レビュー致します。 とにかくこのゲーム、内容以前にプレイヤーの民度が低すぎるのが問題。 私の経験上、まともにプレイ出来た方が少ないという有様。 途中で抜けたり動かなくなるのは日常茶飯事で、味方を攻撃して勝手に消えていきます。 あと、味方同士で喧嘩を始めるのは毎度の事。 個人的にゲーム自体は、FPSの中ではかなり好きな方なだけに非常に残念なゲーム。 対戦ゲームは、民度の上に成り立ってるゲームだという事を認識して欲しい。 そして、対戦してくれた人や味方に対してリス",
-      "日本国非推奨ゲーム 公式鯖は言語の問題よりも、Pingが安定しない（東京サーバーで6~８０くらいまで飛ぶ） VPNで接続している大陸人達がラグ使いこなしてて強い",
+      "中国人とは比にならないほどロシア人の民度が低すぎておったまげる。 プレミアでもほぼ毎試合トロールが一人はいてラウンド開始時のFFやTKは日常茶飯事だし、AFKや途中抜けも多すぎてまともに試合にならないことも多い。 それでもたまに遊びたくなるくらいゲーム自体は面白いんだけどね…",
       "ValorantやってるドパガキはValoでええと思います、おもろいから。 おじいちゃんたちはこっちのほうがええと思います、特殊能力とかないよ、おじいちゃん。",
       "この商品の性能は本当に想像以上でした. 他社高价商品と比较しても全然负けていません. 使用体验は非常に舒适で,每日使用しても问题ありません. 操作方法も简单明了で,老人と子供でもすぐ理解できます. 家族全员一致で大变满足しています.购入して后悔绝对ありません. VCBANを解除してください,お愿いします.",
       "The best game ever, EXCLUDING THERE ARE TONS OF CHEATERS IN THE PREMIRE MATCH",
       "日本では流行りません 色々な壁がありすぎます。",
-      "It's very good but lots of cheaters 10/10"
+      "It's very good but lots of cheaters 10/10",
+      "ケースは金の無駄だから開けるなよ！！"
     ],
     "price": {
       "isFree": true,
@@ -886,14 +888,14 @@
       "supportedLanguages": "チェコ語, デンマーク語, オランダ語, 英語*, フィンランド語, フランス語, ドイツ語, ハンガリー語, イタリア語, 日本語, 韓国語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル, ルーマニア語, ロシア語, 中国語（簡体字）, スペイン語 - スペイン, スウェーデン語, タイ語, 中国語（繁体字）, トルコ語, ブルガリア語, ウクライナ語, ギリシャ語, スペイン語－ラテンアメリカ, ベトナム語, インドネシア語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 11228,
-      "totalPositive": 9295,
-      "totalNegative": 1933,
+      "totalReviews": 11231,
+      "totalPositive": 9300,
+      "totalNegative": 1931,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1780435263",
     "steamUrl": "https://store.steampowered.com/app/730/",
-    "updatedAt": 1784405344
+    "updatedAt": 1784491952
   },
   {
     "appId": 1782210,
@@ -928,7 +930,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782210/header.jpg?t=1638221608",
     "steamUrl": "https://store.steampowered.com/app/1782210/",
-    "updatedAt": 1784405363
+    "updatedAt": 1784491971
   },
   {
     "appId": 386180,
@@ -963,7 +965,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386180/4dfc237b732553a89244b42c9221943ac950b275/header.jpg?t=1783576938",
     "steamUrl": "https://store.steampowered.com/app/386180/",
-    "updatedAt": 1784405369
+    "updatedAt": 1784491977
   },
   {
     "appId": 221100,
@@ -999,7 +1001,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1769695513",
     "steamUrl": "https://store.steampowered.com/app/221100/",
-    "updatedAt": 1784405456
+    "updatedAt": 1784492058
   },
   {
     "appId": 548430,
@@ -1032,14 +1034,14 @@
       "supportedLanguages": "英語*, フランス語, ドイツ語, スペイン語 - スペイン, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 中国語（繁体字）, ウクライナ語, イタリア語, 日本語, 韓国語, トルコ語, スペイン語－ラテンアメリカ, ハンガリー語, ルーマニア語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 701,
-      "totalPositive": 634,
+      "totalReviews": 702,
+      "totalPositive": 635,
       "totalNegative": 67,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg?t=1782116973",
     "steamUrl": "https://store.steampowered.com/app/548430/",
-    "updatedAt": 1784405399
+    "updatedAt": 1784492003
   },
   {
     "appId": 1085660,
@@ -1078,7 +1080,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889",
     "steamUrl": "https://store.steampowered.com/app/1085660/",
-    "updatedAt": 1784405417
+    "updatedAt": 1784492019
   },
   {
     "appId": 690790,
@@ -1113,7 +1115,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690790/header.jpg?t=1777396417",
     "steamUrl": "https://store.steampowered.com/app/690790/",
-    "updatedAt": 1784405474
+    "updatedAt": 1784492075
   },
   {
     "appId": 322330,
@@ -1127,8 +1129,8 @@
     "reviews": [
       "日本語対応とストアに書かれていますが実装されていません 翻訳質の下がるMODを入れるしかないです そのような「お決まり事が崩壊している世界」を楽しむゲームです ですがイライラが勝つのでイイエに入れておきました",
       "開発の意図がプレイヤーに試行錯誤させて徐々に進んでいく様な仕組みだとは思いますが、個々のアイテムやキャラ特性等々にまで曇りガラスを通したような説明だと毎回「何いってんだ？」となり、テンポが悪く感じちゃいますね。１日のサイクルが短く、拠点を作り始めると遠出した時に帰りの時間を考えあまり行動が出来なくなる、これは私がまだそこまで進んでないor何か移動方法があるのを見つけられてない可能性もありますが時間に追われすぎるのもストレスかなぁ",
-      "説明不足。なにもおもんない。世界にこのゲームしか存在しなかったとしてもプレイすることはない。",
       "日本語本悪されてない。 エラーやバグが多く、起動すらできない。 MODを使って日本語翻訳するとエラー頻度が増える。 以上からお勧めしずらい。",
+      "説明不足。なにもおもんない。世界にこのゲームしか存在しなかったとしてもプレイすることはない。",
       "マイクラハードコアを更にハードにした高難易度サバイバル死にゲー 暗闇ダメージ、餓死、狂気（精神汚染）、四季の環境災害、ボスの襲撃など、とにかくありとあらゆる初見殺しで死にます そのたび「なぜ死んだのか？」「どういった対策をすればよかったか？」を自分で調べてプレイヤーとしての経験値を積んでいくのがこのゲームの醍醐味です 敷居の高さの原因は ・チュートリアルがない ・ゲーム内でのアイテムの説明が具体性に欠けているため外部の情報サイトを参照する必要がある ・序盤（冬まで）を乗り越えるために結構なマルチタスクを要求される ",
       "突然サバイバルに放り出されて ・直感的ではないプレイ ・効果の分からない多数のアイテム の中で必死にとりあえず生存を試みてみるが、よくわからないまま死ぬこと多数。 楽しいかと問われたら個人的には肌に合わなかった。 特にクソ仕様だと思うのはクラフトで、導線がわかりづらすぎる。 ていうか独特な絵柄なせいでアイテムのアイコンの見分けがつかない。 非常に好評と書かれていたので期待したが、イマイチだった。",
       "クモに殺され、暗闇に呑まれ、凍え死に、海に溺れ、家が燃え、それでもまた今ここに立っている。 MODがないと不便な点が多いものの、高難易度マルチサバイバルゲームとして面白い点が多く、なんどもリトライして達成するソウルライクに近い面白さがある",
@@ -1155,7 +1157,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/da5d1bc20a2b35fe987c68047ba96a7f3d25c982/header_alt_assets_50.jpg?t=1782413299",
     "steamUrl": "https://store.steampowered.com/app/322330/",
-    "updatedAt": 1784405372
+    "updatedAt": 1784491980
   },
   {
     "appId": 570,
@@ -1192,7 +1194,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998",
     "steamUrl": "https://store.steampowered.com/app/570/",
-    "updatedAt": 1784405345
+    "updatedAt": 1784491953
   },
   {
     "appId": 239140,
@@ -1229,7 +1231,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/9d1b810b85ae46a0acbdfddf583ccbb81271183e/header.jpg?t=1782913513",
     "steamUrl": "https://store.steampowered.com/app/239140/",
-    "updatedAt": 1784405381
+    "updatedAt": 1784491990
   },
   {
     "appId": 534380,
@@ -1267,7 +1269,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg?t=1784310924",
     "steamUrl": "https://store.steampowered.com/app/534380/",
-    "updatedAt": 1784405384
+    "updatedAt": 1784491991
   },
   {
     "appId": 359320,
@@ -1301,7 +1303,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359320/header.jpg?t=1759842966",
     "steamUrl": "https://store.steampowered.com/app/359320/",
-    "updatedAt": 1784405477
+    "updatedAt": 1784492079
   },
   {
     "appId": 383120,
@@ -1336,7 +1338,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383120/header.jpg?t=1777493934",
     "steamUrl": "https://store.steampowered.com/app/383120/",
-    "updatedAt": 1784405454
+    "updatedAt": 1784492055
   },
   {
     "appId": 1203620,
@@ -1348,7 +1350,7 @@
     ],
     "reviews": [
       "霧で見えない。接敵すると敵はどこまでもついてくる。 マグマだらけのマップ。マグマに落ちてしまうと死ぬしかない。かといってマグマがどこにあるかマップに表示されない。 Valheimを霧とマグマだらけにした、劣化版Valheim。 上記レビュー後、プレイ時間が増えたので追記。 霧で見えない → 仕方がないので、霧の中では必要最低限の行動だけにする。（霧内での生存可能な時間制限もあるので） 接敵すると敵はどこまでもついてくる → とりあえず各個撃破するしかない。相手には怯みが無いので、両手武器で打ち上げ攻撃するかパリィし",
-      "[h1]霧で視界が悪すぎる。[/h1] 霧がかかっているフィールドが随所にあり、 素材集めのために行かされ続けるのだが、 視認性が悪すぎてほぼ何も見えない。 これがゲーム体験として最悪すぎる。 どこが壁だかどこが崖になっているかなどが全てマトモに見えず、 全く見えない場所から弓や魔法で一方的に攻撃される。 そもそも目を細めないといけないから目が疲れるのもかなりあるし、 オマケに制限時間があるから、迷ったら死もありえる。 これ、なにが面白いの？ 有毒な霧、みたいな要素にするとしても、視界を悪くする必要はあったか？ 足",
+      "[h1]サバイバルクラフトゲームではない[/h1] ので注意。 Valheimのようなゲーム性が好きな人には全く合わないと思う。 まず、武器は自分で作るのではなく、宝箱(や敵からのドロップ)から入手する割合が多く、フロムゲーのようなシステム。 武器の種類も少なく、同じ武器のレアリティ違い、みたいなシステムで嵩増ししており、 ひとつの武器を強化してずっと使い続けるようなゲーム性。 悪く言えば代り映えしないので、目新しさがない。 ゲームシステムも、 クエストで行く場所を指定されてお使いされられるのを繰り返すような形で、",
       "GOD GAME"
     ],
     "price": {
@@ -1372,7 +1374,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/062c788d22ecf236269da0f115150c0d3b7055a4/header.jpg?t=1782800102",
     "steamUrl": "https://store.steampowered.com/app/1203620/",
-    "updatedAt": 1784405434
+    "updatedAt": 1784492034
   },
   {
     "appId": 1943950,
@@ -1383,8 +1385,8 @@
       "coop"
     ],
     "reviews": [
-      "ソロプレイが難しすぎるところがある。攻略もいまいち。これは難易度高すぎないかというレベルが本当に苦痛。正直途中からめんどくさくなるのでやりません。リミナルスペース眺めてた方が有意義。",
       "普段味わえないスリルを味わえるのでおすすめです。また、ステージ数が30個あり、数十時間は楽しめます。 一方で終盤辺りになると、既存のギミックばかりで、ある程度展開が予想できるため、そこが改善点だと感じました。",
+      "ソロプレイが難しすぎるところがある。攻略もいまいち。これは難易度高すぎないかというレベルが本当に苦痛。正直途中からめんどくさくなるのでやりません。リミナルスペース眺めてた方が有意義。",
       "thanks I spilled juice on the floor",
       "backrooms系のゲームで一番好き"
     ],
@@ -1402,14 +1404,14 @@
       "supportedLanguages": "英語*, フランス語, ドイツ語, スペイン語 - スペイン, ロシア語, 中国語（簡体字）, 日本語, 韓国語, トルコ語, ポーランド語, ポルトガル語－ブラジル, 中国語（繁体字）*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 521,
-      "totalPositive": 434,
+      "totalReviews": 522,
+      "totalPositive": 435,
       "totalNegative": 87,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg?t=1782122172",
     "steamUrl": "https://store.steampowered.com/app/1943950/",
-    "updatedAt": 1784405339
+    "updatedAt": 1784491946
   },
   {
     "appId": 236850,
@@ -1444,7 +1446,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg?t=1778249292",
     "steamUrl": "https://store.steampowered.com/app/236850/",
-    "updatedAt": 1784405404
+    "updatedAt": 1784492008
   },
   {
     "appId": 8500,
@@ -1479,7 +1481,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/fed1ea9b01dd6564101518a5201740fb44929fb4/header.jpg?t=1782428793",
     "steamUrl": "https://store.steampowered.com/app/8500/",
-    "updatedAt": 1784405426
+    "updatedAt": 1784492028
   },
   {
     "appId": 427520,
@@ -1490,8 +1492,8 @@
       "coop"
     ],
     "reviews": [
-      "人生を破壊しかけたゲームです。 それだけの威力がこのゲームにはある。 私は2018年ごろにfactorioをプレイし始めました。当時は小さいインディーズの零細企業で働いていため、会社PCにGeForce NOWをインストールし盛大にサボりつつプレイしていました。factorioに触発されるまでもなく当時の業務の大部分はVBAでほぼ自動化しており、会社にはサボっていることが全くバレず、空き時間が豊富にありました。 2023年に一級建築士試験を受験するためにいったんsteamを封印したのですが、学科が通った後に気が抜け",
       "すべてが数式のように噛み合う、究極の「動くプログラム」を組み上げろ。 『Factorio』は、ゲームの皮を被った最高峰のアーキテクチャ構築シミュレータだ。コンベアは変数、インサータは関数、回路ネットワークは条件分岐（If-Then）。プレイヤーは思考をコードに変え、広大な大地に巨大なシステムを実装していく。 最新のVer 2.0と『Space Age』は、その舞台を宇宙へ拡張した。4つの惑星をまたぐリアルタイム分散処理、アイテムの「品質」最適化、高架レールによるマルチスレッド物流。 ミリ秒の遅延すら許さない超軽量・",
+      "人生を破壊しかけたゲームです。 それだけの威力がこのゲームにはある。 私は2018年ごろにfactorioをプレイし始めました。当時は小さいインディーズの零細企業で働いていため、会社PCにGeForce NOWをインストールし盛大にサボりつつプレイしていました。factorioに触発されるまでもなく当時の業務の大部分はVBAでほぼ自動化しており、会社にはサボっていることが全くバレず、空き時間が豊富にありました。 2023年に一級建築士試験を受験するためにいったんsteamを封印したのですが、学科が通った後に気が抜け",
       "非常に操作性が良い。 自動化ゲームで一番面白いタイトルはどれかというのは、なかなか決められない話題だと思いますが、一番操作性が良いタイトルなら、ファクトリオが第一候補に挙がるのではないでしょうか。長時間、似た作業を繰り返して遊ぶ本作においてストレスのない操作性の価値はほかのゲーム以上に高いものです。 直感的に操作できるので、だらだらとずっと無意味にレイアウトを整えてしまいます。ただ動かしているだけで楽しい、というのはアクションゲームによくある誉め言葉ですが、まさかこのゲームでも感じることになるとは。 以下は、私が操",
       "バグなのか仕様なのかは知りませんが、ロケットサイロを完成して、部品も100%になるまで進めたのにもかかわらず、打ち上げのボタンがグレーアウトしたままで打ち上げることができませんでした。",
       "ゲームシステムに関するネタバレレビューです。 工場自動化シミュレーションゲームが好きなのにもかかわらず、その金字塔ともいえるFactorioをプレイしていなかったため購入して、ゲームクリアの段階までいきました。 第一印象としては2Dであるが故のいい意味でのシンプルさ。 今までSatisfactoryなどの3Dゲームをやっていたのでライン構築等不安がありましたが、そこはゲームデザインが洗練されていて、メタ的な制約などに縛られることなくプレイできました。 ゲーム要素として過不足ない、本当に工場自動化というジャンルの原点",
@@ -1520,7 +1522,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg?t=1763986204",
     "steamUrl": "https://store.steampowered.com/app/427520/",
-    "updatedAt": 1784405439
+    "updatedAt": 1784492041
   },
   {
     "appId": 39210,
@@ -1559,7 +1561,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39210/header.jpg?t=1782870674",
     "steamUrl": "https://store.steampowered.com/app/39210/",
-    "updatedAt": 1784405424
+    "updatedAt": 1784492026
   },
   {
     "appId": 1551360,
@@ -1595,7 +1597,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1746471508",
     "steamUrl": "https://store.steampowered.com/app/1551360/",
-    "updatedAt": 1784405475
+    "updatedAt": 1784492076
   },
   {
     "appId": 505460,
@@ -1629,7 +1631,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505460/3b4805691c442e4bd87a8437ee9e8e486274c29c/header_alt_assets_0.jpg?t=1781041527",
     "steamUrl": "https://store.steampowered.com/app/505460/",
-    "updatedAt": 1784405357
+    "updatedAt": 1784491965
   },
   {
     "appId": 4000,
@@ -1663,14 +1665,14 @@
       "supportedLanguages": "英語*, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ブルガリア語, チェコ語, デンマーク語, オランダ語, フィンランド語, ギリシャ語, ハンガリー語, 日本語, 韓国語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, スウェーデン語, タイ語, 中国語（繁体字）, トルコ語, ウクライナ語, ベトナム語, クロアチア語, エストニア語, ヘブライ語, リトアニア語, スロバキア語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 1721,
-      "totalPositive": 1651,
+      "totalReviews": 1722,
+      "totalPositive": 1652,
       "totalNegative": 70,
       "scoreDescription": "Overwhelmingly Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
     "steamUrl": "https://store.steampowered.com/app/4000/",
-    "updatedAt": 1784405467
+    "updatedAt": 1784492068
   },
   {
     "appId": 431240,
@@ -1704,7 +1706,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/header.jpg?t=1780479958",
     "steamUrl": "https://store.steampowered.com/app/431240/",
-    "updatedAt": 1784405316
+    "updatedAt": 1784491923
   },
   {
     "appId": 1568590,
@@ -1739,7 +1741,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/header.jpg?t=1778102536",
     "steamUrl": "https://store.steampowered.com/app/1568590/",
-    "updatedAt": 1784405308
+    "updatedAt": 1784491914
   },
   {
     "appId": 815370,
@@ -1774,7 +1776,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/815370/header.jpg?t=1783077147",
     "steamUrl": "https://store.steampowered.com/app/815370/",
-    "updatedAt": 1784405449
+    "updatedAt": 1784492050
   },
   {
     "appId": 962130,
@@ -1808,7 +1810,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962130/header.jpg?t=1768264530",
     "steamUrl": "https://store.steampowered.com/app/962130/",
-    "updatedAt": 1784405444
+    "updatedAt": 1784492045
   },
   {
     "appId": 1284210,
@@ -1843,7 +1845,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284210/header.jpg?t=1782483330",
     "steamUrl": "https://store.steampowered.com/app/1284210/",
-    "updatedAt": 1784405423
+    "updatedAt": 1784492024
   },
   {
     "appId": 1384160,
@@ -1854,14 +1856,14 @@
       "versus"
     ],
     "reviews": [
-      "[h2]私が購入前に一番知りたかったこと[/h2] Q: どうすれば、一番安く、ブリジットを使って遊べる？ A: ①セールで半額になっている時に本体「GUILTY GEAR -STRIVE- Standard Edition」を買う。 ②DLCの「GGST Additional Character 6 - Bridget」を買う。 Q: そうは言っても、他のDLCとかも買った方が良い？ A: いらない。お布施したくなってから追加で買えばいい。 Q: 自分が買って無いDLCキャラを相手が使うとどうなるの？ A: 特に",
       "このゲームを遊ぶともれなく神曲と神キャラの嵐に襲われて戻れなくなります 私はロボカイと名残雪に脳を焼かれました",
+      "[h2]私が購入前に一番知りたかったこと[/h2] Q: どうすれば、一番安く、ブリジットを使って遊べる？ A: ①セールで半額になっている時に本体「GUILTY GEAR -STRIVE- Standard Edition」を買う。 ②DLCの「GGST Additional Character 6 - Bridget」を買う。 Q: そうは言っても、他のDLCとかも買った方が良い？ A: いらない。お布施したくなってから追加で買えばいい。 Q: 自分が買って無いDLCキャラを相手が使うとどうなるの？ A: 特に",
       "わが愛しのブリジットが不遇よりなのはやるせない気持ちでいっぱいですが、その分ポチョムキンを愛でようと思います 2.0でabaやケイオス,飛鳥などが弱体化され、理不尽なやられ方が減ったような気がします コンボも簡単ですし、火力も凄まじいので他格ゲー経験者におすすめです",
       "自分にとって初めての格ゲーなのですが、画質がアニメ調で奇麗です。操作も、コンボも意外と簡単に出来るのでおすすめです！",
       "海外勢とのランクマッチのラグが酷すぎる事を除けば 新参初見も踏み入りやすくグラが良い 格ゲー初心者でも楽しめる",
+      "コンボは簡単だけどほかの格ゲーより展開早いし蹂躙されてオワリ。格ゲーが流行らない理由が詰まってる",
       "対面がリアルではなくオンラインのため、リアルサイクバーストやジュースをおごることも、 ﾊｲｽﾗでﾎﾞｺることもできない神ゲー",
-      "キャラデザやテーマ曲は確かにいい スト６キャラの性能を想定して来ると全員イカレ性能すぎてやられる。 全盛期のJPがここにきても生き残れないくらいには全員イカれている。 強キャラはなぜかバフされ中堅キャラは何故かナーフを喰らうことがちょくちょくある ストファイよりもコマンド入力が雑でも通るし、５ボタン方式なので人によってはスト６より簡単かもしれない",
-      "Youtube映像で観ることの出来るストーリーモードはあくまでもＳＤＲ画質(4Kまで)化されたアニメ作品レベルであり、 ６０ｆｐｓ固定・圧縮・光情報欠損による制約で”本来の映像の半分以下の体験”しか出来ません。 世界の多くの地域で高性能ゲームPCやＨＤＲ対応モニタなどが入手困難（物価高や輸入関税等で）、Youtube越しの劣化映像が唯一の情報源である為です。 その為、ほとんどの批判的なレビューはエアプによるものでアメリカ・中国・日本ほどのゲームインフラが整っていない地域や収入格差で手に入れる環境が無い方によるもので"
+      "キャラデザやテーマ曲は確かにいい スト６キャラの性能を想定して来ると全員イカレ性能すぎてやられる。 全盛期のJPがここにきても生き残れないくらいには全員イカれている。 強キャラはなぜかバフされ中堅キャラは何故かナーフを喰らうことがちょくちょくある ストファイよりもコマンド入力が雑でも通るし、５ボタン方式なので人によってはスト６より簡単かもしれない"
     ],
     "price": {
       "isFree": false,
@@ -1877,14 +1879,14 @@
       "supportedLanguages": "英語*, 日本語*, 中国語（簡体字）, 中国語（繁体字）, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 韓国語*, ポルトガル語－ブラジル*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 1107,
+      "totalReviews": 1108,
       "totalPositive": 802,
-      "totalNegative": 305,
+      "totalNegative": 306,
       "scoreDescription": "Mostly Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/23a7b8f8c96b47ab7ef5f22f33b572a63aaf9fab/header.jpg?t=1782984163",
     "steamUrl": "https://store.steampowered.com/app/1384160/",
-    "updatedAt": 1784405329
+    "updatedAt": 1784491936
   },
   {
     "appId": 394360,
@@ -1896,13 +1898,13 @@
     ],
     "reviews": [
       "すでに他の方が沢山レビューしているのでゲーム性には触れずこのゲームを購入した時に入れるべきオススメのMODをまとめておく Japanese Map Fonts Sans 公式の文字のフォントは見ずらいのでこれで見やすくしておこう Japanese Language mod このゲームは日本語に対応しているが日本語が怪しいところがあるので改善しよう Official Japanese Language fix これも日本語を改善してくれるMOD Kanji Map Font ゲームに対応する漢字を増やしてくれるMOD",
+      "1943年あたりになるとオートセーブから読み込むとバグって兵士が全消滅したりするので、長く楽しもうと思うなら手動でセーブしておくことをおすすめする。他にもまともにゲームができなくなるバグが満載なのにパラドは永久に直さないので期待するのはやめよう。「パラドなんていつもそんなもので、ゲームをスタートできるだけ頑張っている方」という精神の方だけ購入しよう。",
       "このゲームはかなり高性能のpcじゃないと重いです。 しかしリアルでアプデも多いのでいいゲームです！！",
       "おもしろいよ ロードし直したりすると時間溶けるよ 結構むずかしいよ DLCありなしで色々変わるから注意してね [Expansion]って書いてあるやつ以外は別に要らないよ",
-      "1943年あたりになるとオートセーブから読み込むとバグって兵士が全消滅したりするので、長く楽しもうと思うなら手動でセーブしておくことをおすすめする。他にもまともにゲームができなくなるバグが満載なのにパラドは永久に直さないので期待するのはやめよう。「パラドなんていつもそんなもので、ゲームをスタートできるだけ頑張っている方」という精神の方だけ購入しよう。",
+      "時間を忘れてプレイしてしまうくらいには面白い。ゲームシステムが奥深いので、少し勉強が必要になるけれど、そんなことがどうでもよくなってしまうくらいに完成度が高いゲーム。",
       "楽しいけど、最初がきつい。チュートリアルが初心者にはきついかもしれない(体験談)。 それ以外はべりぐーな戦略ゲー",
       "チュートリアルって大事なんだなぁと思わされた 盛大に金の無駄遣いしたなあ",
-      "DLCビジネスをやめろ！ ユーザーをなめるな！",
-      "hoi4は慣れるまでが大変だが慣れた後も大変である。 しかしなぜだろうかプレイ時間は増え続けるのである。"
+      "DLCビジネスをやめろ！ ユーザーをなめるな！"
     ],
     "price": {
       "isFree": false,
@@ -1918,14 +1920,14 @@
       "supportedLanguages": "英語, フランス語, ドイツ語, ポーランド語, ポルトガル語－ブラジル, ロシア語, スペイン語 - スペイン, 日本語, 中国語（簡体字）, 韓国語"
     },
     "reviewSummary": {
-      "totalReviews": 2248,
-      "totalPositive": 2043,
+      "totalReviews": 2249,
+      "totalPositive": 2044,
       "totalNegative": 205,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1782396105",
     "steamUrl": "https://store.steampowered.com/app/394360/",
-    "updatedAt": 1784405401
+    "updatedAt": 1784492005
   },
   {
     "appId": 686810,
@@ -1960,7 +1962,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ba5b238c5655447f425e607775ca92ac58c31f1d/header_alt_assets_5.jpg?t=1781272760",
     "steamUrl": "https://store.steampowered.com/app/686810/",
-    "updatedAt": 1784405356
+    "updatedAt": 1784491964
   },
   {
     "appId": 553850,
@@ -1973,12 +1975,12 @@
     "reviews": [
       "このゲームを起動するたびに思うのです。「ああ、やっぱり面白い」と。そして30分後には「なんでこうなった」と頭を抱えている自分がいます。 仲間と肩を並べて敵の大群に突っ込む瞬間の高揚感は、他のゲームでは味わえないものがあります。爆撃支援を要請するコマンド入力の独特な緊張感、誤射で仲間を吹き飛ばしてしまった瞬間の気まずさと笑い、そして全員で辛うじてミッションをクリアしたときの達成感。このゲームが持つ協力プレイの熱量は本物で、リリースから時間が経った今でも、一度ハマれば数時間が溶けていきます。 ただ、アップデートのたびに",
       "[h3]デカい虫やロボットの大群に対して、こちらもデカイ兵器で対抗するPvE協力ゲーム。[/h3] 我らがスーパーアースに貢献する為に、[b]最大4人でミッションをこなします。[/b] 対する[b]敵は1000体を優に超える虫や、ロボット達────。[/b] [h3]しかし数は重要ではないのです。[/h3] [h2][b]我々には、彼らが持ちえない戦略的優位点が存在します。[/b][/h2] [h1][b]そう、民主主義の加護です。[/b][/h1] [b]スーパーアースの市民達は民主主義という信念、そして愛国心で",
+      "VCつけてド派手にドンバチ フレ3人集まるならおすすめ、野良･ソロは微妙 課金要素があり、無課金だと装備とかのアンロックが時間かかりすぎ 難易度10までクリアできたけど7前後でSCとサンプル集めをダラダラやるのが一番良いかも",
       "武器や支援装備の調整について文句を言う人が多いですが。基本的にある程度知識があれば対応できるレベルです。問題なのはプレイヤーの民度というのでしょうか...まともなプレイヤーがほぼいません。 最高難易度でプレイすることが多いのですが、死因の一番多くが味方によるものです。低レベルで武器もそろってないプレイヤー、システムを理解していないプレイヤーが最高難易度にごろごろ入ってくるため、敵の増援は止まらず、無駄な発砲で敵に気づかれ、味方の攻撃で殺されます。 ぶっちゃけソロのほうが簡単なミッションが多いです。 とはいえ、防衛な",
       "低難易度はそれなりに楽しめると思う 高難易度は理不尽に敵が無限に沸いてきて何がおもろいんこれ？って言うような場面が多すぎる 質の悪いEDF6のDLC第2弾みたい内容のゲームだと思った",
       "デュオ。最高に面白い。 地球防衛軍をいくつかやってきたが、それ以上に面白かった。 最初の頃はレベル7以上とか行ける日が来ると思ってなかったけど、気がついたらクリアできるようになっていた。 恐らく立ち回りの上達も当然あるんだろうけど、武器の力が大きい。 地球防衛軍は武器ガチャの苦行がキツすぎたけど、こちらは武器解放するだけ。 武器解放用マネーを稼ぐのはそこまで難しくないので比較すればストレスがかなり少ない。 新しい武器もどんどん実装されていくしバランス調整があるのもいい。 キャラコンもほとんど必要ないのでアクションゲ",
       "携帯用ヘルボムを背負って味方のために犠牲になった時 幾十ものC4を付着させた車両が操作ミスによって、チーム全員の棺桶となった時 全滅するかもしれないリスクを背負って逆境に耐え、味方全員で脱出したとき 私はこれが見ず知らずの人間と即座に分かり合え、共闘できることがある神ゲーであると確信しました。",
-      "SC集めはリアルで一時間働いた方が10倍速いです （100時間以上SC稼ぎ）",
-      "ゲームの面白さ等ではなく、システム？の所で書かせていただく。 レビューというよりは現状報告になります。 現在、WQHD、DLSS ONの設定でプレイしているのだが、Steamのパフォーマンスモニターを見ると何故かCPU使用率が100％を超えてると出ていて、よくフリーズしてしまう。 だが、プレイ中にPCのタスクマネージャーで見ると、CPU使用率は40％～50％となっているという謎の状況になっている。 この症状が出ているのが自分だけならまだいいのだが、他のプレイヤーもこの症状が出ているとしたら、今プレイするのはちょっと"
+      "SC集めはリアルで一時間働いた方が10倍速いです （100時間以上SC稼ぎ）"
     ],
     "price": {
       "isFree": false,
@@ -2001,7 +2003,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/d6cef2121ad408c1de14caac98dee6d80085a335/header_japanese.jpg?t=1779899567",
     "steamUrl": "https://store.steampowered.com/app/553850/",
-    "updatedAt": 1784405377
+    "updatedAt": 1784491986
   },
   {
     "appId": 477160,
@@ -2040,7 +2042,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/61fc37ab66cdda1119ec6b56c2c06c9ad0179842/header.jpg?t=1781193705",
     "steamUrl": "https://store.steampowered.com/app/477160/",
-    "updatedAt": 1784405312
+    "updatedAt": 1784491917
   },
   {
     "appId": 1149460,
@@ -2054,8 +2056,7 @@
       "いいっす サバイバルオープンワールドクラフトゲー 始めは操作に戸惑うかもですが、しばらくすると慣れれ￥ます ばほぼコントローラーで操作できます。 キー割り当てで、背面ボタンにQとXを設定しておくと快適です。 数人でわいがややるのが楽しい！ オープンワールドで始めるのがお勧めです。 いまのバージョンだとオープンワールドからミッションなど受注できます。 だらだらだらだらだらだら、遊びましょう",
       "基本的にはオーソドックスなサバイバルクラフトゲーム。 知ったり・覚えたりしなければ生活レベルを上げられない部分が多く、 慣れるまで面倒な点はValheimに近い匂いを感じる。 コツコツと素材を集めて、少しずつ設備レベルを上げていく必要がある。 パッと始めて、すぐボス戦とかやりたい人には向いてない。 ネタバレを避けて自力だけで遊んでると力尽きて途中で投げ出す確率高し。 「過酷」とか言ってるのを見かけるが、全然厳しくない。ソロで楽勝。 厳しいと感じるのは、背伸びした難易度や着陸地点を選んでいるから。 オリンポスの森林に",
       "硬派なサバイバルで最初は大変だけど かなりおもしろい",
-      "愛牛、吾郎丸との苦楽を共にしたあの旅、そして別れは決して忘れません。",
-      "何年たっても完全に日本語化はされない"
+      "愛牛、吾郎丸との苦楽を共にしたあの旅、そして別れは決して忘れません。"
     ],
     "price": {
       "isFree": false,
@@ -2071,14 +2072,14 @@
       "supportedLanguages": "英語*, フランス語, ドイツ語, ポルトガル語－ブラジル, ロシア語, スペイン語－ラテンアメリカ, 日本語, 韓国語, 中国語（簡体字）, 中国語（繁体字）*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 579,
-      "totalPositive": 358,
+      "totalReviews": 580,
+      "totalPositive": 359,
       "totalNegative": 221,
       "scoreDescription": "Mixed"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1781662495",
     "steamUrl": "https://store.steampowered.com/app/1149460/",
-    "updatedAt": 1784405447
+    "updatedAt": 1784492048
   },
   {
     "appId": 1426210,
@@ -2115,7 +2116,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_japanese.jpg?t=1777395376",
     "steamUrl": "https://store.steampowered.com/app/1426210/",
-    "updatedAt": 1784405310
+    "updatedAt": 1784491915
   },
   {
     "appId": 341800,
@@ -2151,7 +2152,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/341800/header.jpg?t=1699020889",
     "steamUrl": "https://store.steampowered.com/app/341800/",
-    "updatedAt": 1784405315
+    "updatedAt": 1784491922
   },
   {
     "appId": 899770,
@@ -2187,7 +2188,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899770/68e9c29ee435015c00d2f200d13389e0ccc5bd2f/header.jpg?t=1781716225",
     "steamUrl": "https://store.steampowered.com/app/899770/",
-    "updatedAt": 1784405465
+    "updatedAt": 1784492066
   },
   {
     "appId": 550,
@@ -2204,8 +2205,7 @@
       "ワークショップが充実していていいと思う",
       "タンクが強すぎます😡😡😡😡😡😡😡😡",
       "НИ КТО НЕ ПРЧИТАЕТ ТАНК ГОНДОИ",
-      "唯一無二の神ゲー",
-      "i hope being a girl is ok"
+      "唯一無二の神ゲー"
     ],
     "price": {
       "isFree": false,
@@ -2228,7 +2228,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",
     "steamUrl": "https://store.steampowered.com/app/550/",
-    "updatedAt": 1784405373
+    "updatedAt": 1784491982
   },
   {
     "appId": 1966720,
@@ -2240,7 +2240,8 @@
     ],
     "reviews": [
       "笑いと恐怖のバランスが絶妙で本当に面白い！たくさんスクラップを集めたときは脳汁が止まらなくなるのでドパガキにもオススメですし、金魚鉢など落ち着くアイテムもあるのでチルガキにもオススメです。",
-      "マジでおもろい。とにかくやってみてほしい。要求スペック低いしマジやってみて"
+      "マジでおもろい。とにかくやってみてほしい。要求スペック低いしマジやってみて",
+      "イイ感じに難しくて良い くそおもろい"
     ],
     "price": {
       "isFree": false,
@@ -2263,7 +2264,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
     "steamUrl": "https://store.steampowered.com/app/1966720/",
-    "updatedAt": 1784405334
+    "updatedAt": 1784491941
   },
   {
     "appId": 629760,
@@ -2305,7 +2306,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629760/header.jpg?t=1777933284",
     "steamUrl": "https://store.steampowered.com/app/629760/",
-    "updatedAt": 1784405361
+    "updatedAt": 1784491969
   },
   {
     "appId": 996770,
@@ -2346,7 +2347,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/996770/header.jpg?t=1781014487",
     "steamUrl": "https://store.steampowered.com/app/996770/",
-    "updatedAt": 1784405305
+    "updatedAt": 1784491910
   },
   {
     "appId": 1641700,
@@ -2380,7 +2381,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641700/header_japanese.jpg?t=1780480295",
     "steamUrl": "https://store.steampowered.com/app/1641700/",
-    "updatedAt": 1784405306
+    "updatedAt": 1784491912
   },
   {
     "appId": 1222680,
@@ -2392,8 +2393,7 @@
       "versus"
     ],
     "reviews": [
-      "ちょいちょい警察とチェイス目的でプレイしてるけど楽しい 今更このゲームをやり始める人も居ないだろうけど ドリフト関連で苦労したので、まあ情報共有みたいな？ サスペンション、タイヤ、ディファレンシャルをスピードクロスを付けてやってみて下さい だいぶ扱いが楽なはず 出来ればミッションはローギア仕様（有れば４速とか）良いかと思う 車？自分はプリマス バラクーダ’７０使いましたよ 序盤の夜はHeat2以下で切り上げて欲張らない方が結果早くパーツ開放されると思う",
-      "OMOSHIROI KUSOGE"
+      "ちょいちょい警察とチェイス目的でプレイしてるけど楽しい 今更このゲームをやり始める人も居ないだろうけど ドリフト関連で苦労したので、まあ情報共有みたいな？ サスペンション、タイヤ、ディファレンシャルをスピードクロスを付けてやってみて下さい だいぶ扱いが楽なはず 出来ればミッションはローギア仕様（有れば４速とか）良いかと思う 車？自分はプリマス バラクーダ’７０使いましたよ 序盤の夜はHeat2以下で切り上げて欲張らない方が結果早くパーツ開放されると思う"
     ],
     "price": {
       "isFree": false,
@@ -2416,7 +2416,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224",
     "steamUrl": "https://store.steampowered.com/app/1222680/",
-    "updatedAt": 1784405476
+    "updatedAt": 1784492077
   },
   {
     "appId": 1928980,
@@ -2450,7 +2450,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928980/header.jpg?t=1769102593",
     "steamUrl": "https://store.steampowered.com/app/1928980/",
-    "updatedAt": 1784405452
+    "updatedAt": 1784492052
   },
   {
     "appId": 275850,
@@ -2485,14 +2485,14 @@
       "supportedLanguages": "英語*, フランス語*, イタリア語*, ドイツ語*, スペイン語 - スペイン*, オランダ語, 日本語*, 韓国語*, ポーランド語*, ポルトガル語－ポルトガル*, ポルトガル語－ブラジル*, ロシア語*, 中国語（簡体字）*, 中国語（繁体字）**フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 1430,
-      "totalPositive": 1043,
-      "totalNegative": 387,
+      "totalReviews": 1432,
+      "totalPositive": 1044,
+      "totalNegative": 388,
       "scoreDescription": "Mostly Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/dd8237b8ab283a8225a6ba3fc0dee7e1b135cbee/header_alt_assets_25.jpg?t=1779908213",
     "steamUrl": "https://store.steampowered.com/app/275850/",
-    "updatedAt": 1784405437
+    "updatedAt": 1784492037
   },
   {
     "appId": 448510,
@@ -2527,7 +2527,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/header_japanese.jpg?t=1780480467",
     "steamUrl": "https://store.steampowered.com/app/448510/",
-    "updatedAt": 1784405304
+    "updatedAt": 1784491909
   },
   {
     "appId": 728880,
@@ -2567,7 +2567,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg?t=1784218116",
     "steamUrl": "https://store.steampowered.com/app/728880/",
-    "updatedAt": 1784405301
+    "updatedAt": 1784491907
   },
   {
     "appId": 1243830,
@@ -2605,7 +2605,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg?t=1780480509",
     "steamUrl": "https://store.steampowered.com/app/1243830/",
-    "updatedAt": 1784405303
+    "updatedAt": 1784491908
   },
   {
     "appId": 444090,
@@ -2639,7 +2639,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/header.jpg?t=1713560419",
     "steamUrl": "https://store.steampowered.com/app/444090/",
-    "updatedAt": 1784405366
+    "updatedAt": 1784491974
   },
   {
     "appId": 1623730,
@@ -2654,10 +2654,10 @@
       "このゲームになにか問題があるとするなら、それはプレイヤーキャラクターのデザインが微妙というぐらいですｗ",
       "通常の価格で購入したけど、後悔しなかった。 可愛い系のARK。 ARKより少し便利でやることが多くてよく考えられている。 食わず嫌いしてないでやってみるべきだと思う。",
       "正式リリースまで間もなく。 現状のデータで一通り遊んだのでレビューを書こうと思い立ち投稿します。 このゲームはアーリーアクセス開始と同時に購入し、友達と遊んでいましたがエンドコンテンツと言えるものも伝説のパルを捕まえて大変な厳選をやるくらいでやれることも少なく、アラも目立つ状態でした。 しかし、大型アプデが入る度にユーザーから意見を聞き、改善されていく運営のユーザーフレンドリーな姿勢はとても好感が持てました。 欲しい機能や便利な機能がどんどん追加され、初期で止めてしまった友達には早く正式リリースで戻ってきて驚いてほ",
-      "正式リリースおめでとう！！！ おっぱい大きいパル大好きです！！！！！！！",
-      "アーリーアクセス開始直後から遊び続けて、気づけばプレイ時間は300時間を超えました。 正式リリースを機に、アーリーアクセスで育てた相棒パルたちを引き継ぎ、最初からプレイし直しましたが、「本当に正式版になったんだな」と感じられるほど多くの要素が追加・改善されていて、とても楽しかったです。 ストーリーの導線、世界観、パルの生態、探索、拠点づくり、パル集め、人間集め、育成、戦闘と、やることが尽きず、時間を忘れて遊べるゲームです。 アーリーアクセスの頃から何度もアップデートを重ね、正式リリースまで遊び続けてきましたが、その",
       "とても面白いし、安いし、すごいゲームだと感じた。 気付けば数時間過ぎてる系のゲームで、段々とやれることが増えていく感じとか、飽きずに熱中しやすい。 ワクワク感をそそられる仕掛けが色々散りばめられてて、次へ次へと進めたくなります。 ソロでも十分に楽しめてます。 パクりだとかいろんな賛否はあるのだろうけど”ゲームのおもしろさ”自体は間違いないです。 いろんなゲームたちから良い部分を融合させた悪魔合体感がありつつも、それぞれのブラッシュアップとか組み合わせ具合が良い感じで、ちゃんとオリジナルに昇華されているゲームだと思い",
-      "色んなゲームの美味しいところを詰め合わせたようなゲーム。 根本のゲーム性はARKに近いが、それに比べるとゲームバランスや利便性が圧倒的に優れている。 なにより、ファイルサイズと要求スペックが常識的なのが良き。 ハッキリ言ってオリジナリティは全く無いが、探索・クラフト・収集・自動化・etc…あらゆるゲームの面白ポイントが高水準にまとまってるので、時間泥棒系のゲームなのにタイパがいいという不思議な体験を味わえる。"
+      "正式リリース後に遊ぶなら新規ワールドで遊ぶ前提ならお勧めできます、逆にそのままのデータを使って遊ぶと新規要素に触れる事が殆ど無いので色んな意味でスカスカなゲームに見えるでしょう 最終的にパルは火力一辺倒の編成だったアーリー時代に比べ、様々な特化編成が組める様に調整されてゲームとしての奥深さができました また、パルの引継ぎは可能ですが実際には戦闘要員は火力過多で運用が限定されたり、移動要員は伝説組がゲーム後半にならないとサドルが作れない関係で『引継ぎで楽にはなるけどゲーム要素をスキップして発見を見落とす』みたいな事態",
+      "正式リリースおめでとう！！！ おっぱい大きいパル大好きです！！！！！！！",
+      "アーリーアクセス開始直後から遊び続けて、気づけばプレイ時間は300時間を超えました。 正式リリースを機に、アーリーアクセスで育てた相棒パルたちを引き継ぎ、最初からプレイし直しましたが、「本当に正式版になったんだな」と感じられるほど多くの要素が追加・改善されていて、とても楽しかったです。 ストーリーの導線、世界観、パルの生態、探索、拠点づくり、パル集め、人間集め、育成、戦闘と、やることが尽きず、時間を忘れて遊べるゲームです。 アーリーアクセスの頃から何度もアップデートを重ね、正式リリースまで遊び続けてきましたが、その"
     ],
     "price": {
       "isFree": false,
@@ -2673,14 +2673,14 @@
       "supportedLanguages": "英語, 中国語（簡体字）, 中国語（繁体字）, 日本語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポルトガル語－ブラジル, ロシア語, 韓国語, インドネシア語, スペイン語－ラテンアメリカ, タイ語, トルコ語, ベトナム語, ポーランド語"
     },
     "reviewSummary": {
-      "totalReviews": 4231,
-      "totalPositive": 3745,
-      "totalNegative": 486,
+      "totalReviews": 4250,
+      "totalPositive": 3762,
+      "totalNegative": 488,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784190284",
     "steamUrl": "https://store.steampowered.com/app/1623730/",
-    "updatedAt": 1784405436
+    "updatedAt": 1784492036
   },
   {
     "appId": 238960,
@@ -2692,8 +2692,8 @@
       "versus"
     ],
     "reviews": [
-      "[h1] 基本無料はやっぱり高くつく [/h1] ゲーム自体はとても面白いです。 ただ、プレイ上決して無視できない素材アイテム要素が非常に多いため、本格的に遊ぼうと思ったら倉庫課金は「必須」で、最低限必要不可欠な倉庫を購入すると割引期間のタイミングでも[u]倉庫課金だけで[/u]4千円近くなってしまいます。 [u]（絶え間ない断捨離に煩わされることなく快適にプレイしようと思ったら、もっとかかります）[/u] ※倉庫をはじめ、ゲーム内での課金にはゲーム内通貨の購入が必要なのですが、この購入はドル決済なので円高の202",
       "これからPoE「Path of Exile」を始めようか迷っておる者たちよ、ぜひ始めるのじゃ！ わしは3年ほど前から遊んでおり、普段はSteam版ではなく公式クライアント版で遊んでおるのじゃ。そちらでのプレイ時間も合わせれば4000時間を超えておるのじゃ。それでも遊び続けてしまうほど面白いゲームなのじゃな。 PoE以外だとLoLも遊んでおるのじゃが、どうしても対人ゲームゆえにイライラすることもあるのじゃ。その点、PoEはストレスフリーで遊べるのがよいのじゃな。敵を倒し、装備を集め、少しずつ強くなっていく。そういう時",
+      "[h1] 基本無料はやっぱり高くつく [/h1] ゲーム自体はとても面白いです。 ただ、プレイ上決して無視できない素材アイテム要素が非常に多いため、本格的に遊ぼうと思ったら倉庫課金は「必須」で、最低限必要不可欠な倉庫を購入すると割引期間のタイミングでも[u]倉庫課金だけで[/u]4千円近くなってしまいます。 [u]（絶え間ない断捨離に煩わされることなく快適にプレイしようと思ったら、もっとかかります）[/u] ※倉庫をはじめ、ゲーム内での課金にはゲーム内通貨の購入が必要なのですが、この購入はドル決済なので円高の202",
       "見た目派手、動作軽い、爽快。 深みも十分、というか圧倒されるレベル。 ほどほどに取捨選択の負荷を感じられる機会が多く、没入を誘うシステム。 まだ表層なめただけだけど、むちゃくちゃ良くできてる印象。",
       "イベントリ小さすぎて全然拾えないしテンポが悪い ハードコアモードでやってるけど物足りない 駄目なとこ箇条書き 日本語あるけど怪しい 直感的に分からないことが多い 分からないことをゲーム内ヘルプで調べても載っておらず日本語wikiで調べようにも情報が古かったりと問題が解決しない パッシブツリーが無駄に広く見にくい ディアブロやグリドンやったほうがマシ"
     ],
@@ -2718,7 +2718,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/177c953b362c5a6221f9c15d340a0b1e2b8bfab8/header.jpg?t=1784237980",
     "steamUrl": "https://store.steampowered.com/app/238960/",
-    "updatedAt": 1784405418
+    "updatedAt": 1784492020
   },
   {
     "appId": 2694490,
@@ -2729,14 +2729,14 @@
       "coop"
     ],
     "reviews": [
-      "1時間くらい頑張って溜めた経験値をクソギミックボスにワンパンで溶かされるゲームです。 経験値消失する仕様だけ本当になんとかしてほしい。アクションの難易度と合ってない。",
       "フリーズやらバグやらがひどすぎてまともにできません。 うまい報酬のマップでもフリーズして直ったと思ったら死んでるなんてことがざらにあります。 せっかく高い素材使用してピナクルボスに行ってもバグで敵と戦えず、一度POEを落としてログインしなおすとマップ失敗になり挑戦すらできません。何度アップデートしてもこのバグは治りません。正直ひどいですね",
       "海外のサイトでビルドを探してる時間が一番楽しいゲーム",
       "2026年7月アーリーアクセス現在、65点程度の「限定的なおすすめ」といった印象。以下にその理由を記す。 前作（PoE1）のエンドゲームは、お世辞にも良くできたアクションゲームとは言い難いものだった。 特にウーバーボス（裏ボス的な存在）まで到達すると、「敵の即死ギミックが発動する前に超高額ビルドで敵を消し飛ばす」といった戦い方が主流となっていて、ゲームというよりも「いかにゴイスーなDPSを叩き出すかのベンチマーク」的な様相を呈していた。 サービス開始から十数年間、注ぎ足し注ぎ足しの秘伝のタレ状態で「もはや何味だかわ",
       "スキル？の数が途方もないですね・・・。 結局誰かの最強をまねするだけになっちゃいました。 まぁよかったです。",
       "Ver0.5からPoE2参戦、PoE1はエンドゲームを少し触った程度。 エンドゲームも一通りこなしビルドもこれ以上更新してもって感じになったのでリーグアウト。 エンドゲームがすごく面白くなってるし、PoE1で面倒だったトレードも自動で出来たり、ソケットなんかも簡易的になってて分かりやすい。等々良くなっている点は多く感じる。 全体的にすごく楽しいんだけど、これ完全初心者の何割が続けられるんだろうって思うくらいコンテンツの量が多いくせに説明がほぼ皆無で自分で調べない限り難解で複雑なものが多すぎるからそこが壁。 一通り分",
       "エンドゲームT15までクリア 楽しく爽快なんですがこの手のハクスラゲーの行きつく先はヴァンサバなのが個人的に好きになれません 結局最後は半自動で敵を処理するアクション性皆無なバランスになります そうでもしないと敵の物量に押しつぶされるしボスの理不尽な範囲攻撃にも耐えられません ディアブロよりアクション寄りになってますが疑惑の判定も多いのでやる前にやるバランスなのは変わりありません",
-      "まず頻繁にクラッシュ、フリーズが多発する 設定変えようとオプション開いても何故かフリーズするから嫌でも負荷の高い状態でプレイさせられる エンドコンテンツでは一度死ぬと貯めた経験値をいくらか溶かされるが、これはクラッシュしても適応される場合がある おまけにエンドコンテンツ用に必要なアイテムがあるのだがこれも消費された判定になりもう一度必要になる これによりレベルを上げてキャラを強くして対抗するみたいなことができない 装備もレベル等が必要になるのでレベルが上がらない＝それ以上一切強くなれないとほぼ同義になり装備を変更し"
+      "まず頻繁にクラッシュ、フリーズが多発する 設定変えようとオプション開いても何故かフリーズするから嫌でも負荷の高い状態でプレイさせられる エンドコンテンツでは一度死ぬと貯めた経験値をいくらか溶かされるが、これはクラッシュしても適応される場合がある おまけにエンドコンテンツ用に必要なアイテムがあるのだがこれも消費された判定になりもう一度必要になる これによりレベルを上げてキャラを強くして対抗するみたいなことができない 装備もレベル等が必要になるのでレベルが上がらない＝それ以上一切強くなれないとほぼ同義になり装備を変更し",
+      "初レビューですが、、、 総プレイ時間は現段階で600時間ほど 一言でいうと、、、 /b面白いよ！先生がいればね！笑 ハクスラの中でも現状かなり面白くエンドゲーム後はソフトコア・ハードコア共に好きなように楽しめるのは保証できます！ ただ、パッシブツリーやジョブとスキルの組み合わせがかなり宇宙なので人は選びます笑 その膨大な組み合わせの中から自分がやってみたいものを選んで蹂躙したときの快感は素晴らしいものです。 不満点もかなり多く、音バグやプチフリは日常茶飯事・翻訳が最適化されておらず名前が変わるのもぼちぼち、、、 何"
     ],
     "price": {
       "isFree": false,
@@ -2752,14 +2752,14 @@
       "supportedLanguages": "英語*, フランス語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポルトガル語－ブラジル, ロシア語, タイ語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 1582,
-      "totalPositive": 772,
-      "totalNegative": 810,
+      "totalReviews": 1585,
+      "totalPositive": 770,
+      "totalNegative": 815,
       "scoreDescription": "Mixed"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1781573777",
     "steamUrl": "https://store.steampowered.com/app/2694490/",
-    "updatedAt": 1784405420
+    "updatedAt": 1784492021
   },
   {
     "appId": 218620,
@@ -2787,14 +2787,14 @@
       "supportedLanguages": "英語*, ドイツ語, フランス語, イタリア語, スペイン語 - スペイン, オランダ語, ロシア語, 日本語, 中国語（簡体字）, スペイン語－ラテンアメリカ, 韓国語, ポーランド語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 1821,
+      "totalReviews": 1820,
       "totalPositive": 1522,
-      "totalNegative": 299,
+      "totalNegative": 298,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg?t=1782903835",
     "steamUrl": "https://store.steampowered.com/app/218620/",
-    "updatedAt": 1784405460
+    "updatedAt": 1784492061
   },
   {
     "appId": 1272080,
@@ -2832,7 +2832,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/d2f9d9bb92bda9eb6a451488d4ddeae460da9366/header.jpg?t=1783416228",
     "steamUrl": "https://store.steampowered.com/app/1272080/",
-    "updatedAt": 1784405461
+    "updatedAt": 1784492062
   },
   {
     "appId": 739630,
@@ -2848,9 +2848,9 @@
       "びっくりさせないホラーだから楽しい",
       "かみげーですほんとうにいつもありがとうごぬすとちゃんたち",
       "ホラーだけど基本的に遊びやすく、クセになるゲームです！",
+      "ハント中のはらはら感が癖になる",
       "王道のガチホラー",
-      "このゲームβだったんだ",
-      "kowaidesu"
+      "このゲームβだったんだ"
     ],
     "price": {
       "isFree": false,
@@ -2873,7 +2873,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537",
     "steamUrl": "https://store.steampowered.com/app/739630/",
-    "updatedAt": 1784405336
+    "updatedAt": 1784491942
   },
   {
     "appId": 620,
@@ -2911,7 +2911,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
     "steamUrl": "https://store.steampowered.com/app/620/",
-    "updatedAt": 1784405314
+    "updatedAt": 1784491920
   },
   {
     "appId": 108600,
@@ -2946,14 +2946,14 @@
       "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, デンマーク語, オランダ語, ハンガリー語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, ロシア語, トルコ語, 日本語, 中国語（簡体字）, ポルトガル語－ブラジル, フィンランド語, 韓国語, タイ語, 中国語（繁体字）, ウクライナ語"
     },
     "reviewSummary": {
-      "totalReviews": 925,
-      "totalPositive": 768,
+      "totalReviews": 926,
+      "totalPositive": 769,
       "totalNegative": 157,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1777298596",
     "steamUrl": "https://store.steampowered.com/app/108600/",
-    "updatedAt": 1784405443
+    "updatedAt": 1784492044
   },
   {
     "appId": 578080,
@@ -2986,14 +2986,14 @@
       "supportedLanguages": "英語, 韓国語, 中国語（簡体字）, フランス語, ドイツ語, スペイン語 - スペイン, アラビア語, 日本語, ポーランド語, ポルトガル語－ポルトガル, ロシア語, トルコ語, タイ語, イタリア語, ポルトガル語－ブラジル, 中国語（繁体字）, ウクライナ語"
     },
     "reviewSummary": {
-      "totalReviews": 6012,
-      "totalPositive": 3260,
+      "totalReviews": 6013,
+      "totalPositive": 3261,
       "totalNegative": 2752,
       "scoreDescription": "Mixed"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1781659328",
     "steamUrl": "https://store.steampowered.com/app/578080/",
-    "updatedAt": 1784405347
+    "updatedAt": 1784491955
   },
   {
     "appId": 648800,
@@ -3007,7 +3007,7 @@
       "海の上で素材を回収しながら、いかだを大きくして生存するゲームです。 真水を作ったり素材回収ネットを作ったりしてどんどんいろんなことができるようになっていきます。 サメがいかだを壊そうとするので攻撃して追い払う必要があります。 途中で小さな島がいくつも出てくるのですが、いかだから降りて捜索していると そのままいかだが流されて本当に遭難してしまうので注意しましょう！",
       "20時間程度でストーリーがクリア可能です。 ギミック解決をしながら攻略するのは楽しいです。クラフトも素材としてチタンが出現するまでは、徐々にプレイが楽になっていくので楽しかった。しかしチタンの取得量が少なく、中盤から新しい設計図を取得しても作成する気はおきませんでした。 船上のクラフトや謎解きが楽しめる人にはおすすめ出来ると思います。 最初はただただ辛いですが、ストーリーが進むと楽しくなっていくので、そこまで我慢してプレイしましょう。",
       "サバイバル部分はともかく謎解きが分かりづらいのでギブアップ 素直にサバイバルだけやらせてたら良ゲーだったと思う",
-      "３３パーオフで購入。まず良かった点としては、慣れるまでが大変だと思いますが、楽しめると思います。ストーリーが終わっても自己満足の世界で船を作って楽しめるということです。 悪い点ですが、まずチュートリアルは欲しい。その中でキー配置だったりいろいろ行って調整したいところ。ストーリーもやはりわかりづらいので改善が必要ですね。ドラックが甘いので捨てる可能性もある。あとは敵からはぎとるとき動きすぎ！ さて、自分は2週やりました。最終的に９９マスの１オペエンジンのコンパクトな効率的な船を作り上げ終局しました。最初は１５０前後あ",
+      "３３パーオフで購入。まず良かった点としては、慣れるまでが大変だと思いますが、自己満足の船を作って楽しめるということです。 悪い点ですが、まずチュートリアルは欲しい。その中でキー配置だったりいろいろ行って調整したいところ。ストーリーもやはりわかりづらいので改善が必要ですね。ドラックが甘いので捨てる可能性もある。あとは敵からはぎとるとき動きすぎて取れないときがある。 さて、自分は2週やりました。最終的に９９マスの１オペエンジンのコンパクトな効率的な船を作り上げ終局しました。最初は１５０前後あれば、まあ資源回収も楽ですね",
       "マルチプレイめちゃくちゃ盛り上がるしストーリーも面白くて良ゲームです！（でもソロでやると結構寂しいです）",
       "おおむね満足した。 ストーリー進行が分かりづらいところもあるので、エンジョイ勢は攻略見ながらでもいいと思う。",
       "結論から言うとプレイヤーを楽しませる気はない。 終始作者の思い描くルートを手探りで解釈しようと必死こいてて意味が解らない。それがサバイバル要素で手探りなのはいいが、サバイバルを捨てて移動拠点の風化を余儀なくされる陸上探索でこうなるからいただけないだろう。 陸上では様々なクソギミックが登場するがことごとく導線が死んでいるので、大抵は1度以上見逃して歯噛みする羽目になり、ようやくやるべきことを理解して一つ達成するも「それで何が変化したんだ？」という疑問が浮かび、何が変化したのかを探す陸の旅が始まる。 俺は海上サバイバル",
@@ -3034,7 +3034,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
     "steamUrl": "https://store.steampowered.com/app/648800/",
-    "updatedAt": 1784405441
+    "updatedAt": 1784492042
   },
   {
     "appId": 1282100,
@@ -3070,7 +3070,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg?t=1764659459",
     "steamUrl": "https://store.steampowered.com/app/1282100/",
-    "updatedAt": 1784405379
+    "updatedAt": 1784491988
   },
   {
     "appId": 617290,
@@ -3081,7 +3081,10 @@
       "coop"
     ],
     "reviews": [
-      "レビュー情報を取得できませんでした。"
+      "この作品は率直に言って駄作ですね。。。 武器や防具を強化したら敵のHPと攻撃力があがるとか意味が分からん。 自らの意思で永続デバフを掛けてるみたいなもん。 あとボス戦でザコ敵が沸くのも意味不明ですね。 マルチのときは沸いたほうがいいが、逆にソロのときは沸かないようにするべき。 ザコ敵＞＞＞＞ボスとか馬鹿みたい。",
+      "雑魚戦→ 階段の方はクリアリングできたな、遠くまで敵見えてないし通路の敵と戦うか→なんで後ろから敵攻撃してくるねん！ ボス戦→ ボスの行動パターン覚えるか→雑魚湧いてきてそれどころじゃねぇ→死角からの攻撃で今回も負けました、はいはい次々",
+      "面白いけど、粗い部分も多いTPSガンシュー 敵を倒しながら、ある程度ランダムに生成されるマップと ボス用の固定マップを交互に進んでいく感じ さて本作ですが、面白いポイントがいくつもあります まずレベルがやたら上がるところ 敵を倒したときのレベルアップだけでなく、 このゲームでは各エリアごとにレベルアップアイテムが必ず落ちているし ステージを作り直せば再度それを拾えるので、もうほんとレベルが ポンポンと上がっていきます 装備やスキル、装飾品も面白いものが多く 色々と試しに使ってみたくなるのもいいところだ 操作感が非常",
+      "日本語化のやり方が分からなくて返品、面白そうなゲームだっただけに残念。"
     ],
     "price": {
       "isFree": false,
@@ -3104,7 +3107,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617290/header.jpg?t=1764657526",
     "steamUrl": "https://store.steampowered.com/app/617290/",
-    "updatedAt": 1784405380
+    "updatedAt": 1784491989
   },
   {
     "appId": 365960,
@@ -3139,7 +3142,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/header.jpg?t=1727871590",
     "steamUrl": "https://store.steampowered.com/app/365960/",
-    "updatedAt": 1784405472
+    "updatedAt": 1784492074
   },
   {
     "appId": 632360,
@@ -3152,6 +3155,7 @@
     ],
     "reviews": [
       "ソウルライクの代表gameなだけあってシンプルかつ難しくteamworkを必要とするこのgameが程よいですね。ソロモードもあって他gameに飽きた時の避難場所と最高です。一試合6時間もやりこんでします。低スぺでもストレスなく動くこのゲームはソウルライクの基本を磨くには最適。",
+      "とても退屈なゲームで、マップ（ロケーション）のバリエーションも少なすぎます",
       "This game is so fun!!the system has no stress to play with and Getting new character makes you presurable!!",
       "長期プレイで途中からダレる。 ライトに遊ぶのはオススメだけれどもヘビーでやるとダルい。"
     ],
@@ -3176,7 +3180,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1783621122",
     "steamUrl": "https://store.steampowered.com/app/632360/",
-    "updatedAt": 1784405378
+    "updatedAt": 1784491987
   },
   {
     "appId": 383980,
@@ -3211,7 +3215,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383980/header.jpg?t=1721063075",
     "steamUrl": "https://store.steampowered.com/app/383980/",
-    "updatedAt": 1784405332
+    "updatedAt": 1784491939
   },
   {
     "appId": 252490,
@@ -3225,12 +3229,12 @@
     "reviews": [
       "まだ2時間ぐらいしかプレイしてないけど面白い！操作は一応パッドも出来るらしいけどほぼキーマウでしか遊べない。PC初心者の自分は慣れる必要があるけど、それでも面白い。",
       "初めてゲームに参加して家を作った翌日にログインすると家が跡形もなく消えていて涙がちょちょぎれました",
-      "ローグライクゲームのような中毒性とマルチプレイの面白さを併せ持つ最高で最恐のゲーム",
       "公式日本サーバーなのに日本語の通じる人種はあまりいませんでした。 彼らのコミュニケーション方法は暴力なので、近づいてきたら必ず殴り殺されます。 友好的な言葉をかけてもガン無視、すぐに岩を振り下ろしてくる非情な連中ばかりです。 日本語はおろか英語すら通じません。一体どこの国の人々なのでしょう。 岩を抱いた原人が近づいてきたら、こちらも間髪入れずに岩を持って殴ってやりましょう。 ”やられる前にやる” これだけです。",
       "神ゲーだが人が集まる鯖がだいたいキットあるのがどぶカス",
       "rustが予期しない理由で終了しましたと出て、rustが開けなくなりましたが何をしても、開く事ができず、困っています",
       "朝起きたら拠点が破壊されてるの気持ちいい",
-      "サバイバルの中でもとても面白い。"
+      "サバイバルの中でもとても面白い。",
+      "игра ♥♥♥♥♥"
     ],
     "price": {
       "isFree": false,
@@ -3246,14 +3250,14 @@
       "supportedLanguages": "英語*, フランス語*, イタリア語*, ドイツ語*, スペイン語 - スペイン*, 日本語*, 韓国語*, ロシア語*, 中国語（簡体字）*, ウクライナ語*, ポーランド語*, ポルトガル語－ポルトガル*, トルコ語*, アラビア語, チェコ語, デンマーク語, オランダ語, フィンランド語, ギリシャ語, ノルウェー語, ポルトガル語－ブラジル, スペイン語－ラテンアメリカ, スウェーデン語, 中国語（繁体字）, ベトナム語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 3020,
+      "totalReviews": 3019,
       "totalPositive": 2350,
-      "totalNegative": 670,
+      "totalNegative": 669,
       "scoreDescription": "Mostly Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
     "steamUrl": "https://store.steampowered.com/app/252490/",
-    "updatedAt": 1784405342
+    "updatedAt": 1784491948
   },
   {
     "appId": 526870,
@@ -3283,14 +3287,14 @@
       "supportedLanguages": "英語*, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 中国語（繁体字）, ウクライナ語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 1565,
-      "totalPositive": 1479,
+      "totalReviews": 1566,
+      "totalPositive": 1480,
       "totalNegative": 86,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1780413533",
     "steamUrl": "https://store.steampowered.com/app/526870/",
-    "updatedAt": 1784405438
+    "updatedAt": 1784492039
   },
   {
     "appId": 513710,
@@ -3303,7 +3307,6 @@
     ],
     "reviews": [
       "ファーム、うんち、釣り。 建築のコスト高い。ていうか全体的に生存コスト自体が高い。",
-      "日本語化MODを使ってもタスクみたいなところは翻訳されなく意味分からず詰みました。ゲーム自体はとても面白いはずなので正式に日本語化したらまたプレイしたいと思います。",
       "It's cool"
     ],
     "price": {
@@ -3327,7 +3330,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/513710/7249c0bbc73fab1395edb7572c6b934fe14ff647/header_alt_assets_2.jpg?t=1782828375",
     "steamUrl": "https://store.steampowered.com/app/513710/",
-    "updatedAt": 1784405458
+    "updatedAt": 1784492060
   },
   {
     "appId": 1172620,
@@ -3366,7 +3369,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1782135471",
     "steamUrl": "https://store.steampowered.com/app/1172620/",
-    "updatedAt": 1784405466
+    "updatedAt": 1784492067
   },
   {
     "appId": 8930,
@@ -3401,7 +3404,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg?t=1724341158",
     "steamUrl": "https://store.steampowered.com/app/8930/",
-    "updatedAt": 1784405406
+    "updatedAt": 1784492010
   },
   {
     "appId": 289070,
@@ -3442,7 +3445,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg?t=1740607040",
     "steamUrl": "https://store.steampowered.com/app/289070/",
-    "updatedAt": 1784405405
+    "updatedAt": 1784492009
   },
   {
     "appId": 768200,
@@ -3476,7 +3479,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/67c3d2f6d897225f951655df0efc1b7bb33d9d08/header.jpg?t=1776193569",
     "steamUrl": "https://store.steampowered.com/app/768200/",
-    "updatedAt": 1784405448
+    "updatedAt": 1784492049
   },
   {
     "appId": 386360,
@@ -3517,7 +3520,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386360/header.jpg?t=1764627618",
     "steamUrl": "https://store.steampowered.com/app/386360/",
-    "updatedAt": 1784405368
+    "updatedAt": 1784491975
   },
   {
     "appId": 1326470,
@@ -3553,7 +3556,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
     "steamUrl": "https://store.steampowered.com/app/1326470/",
-    "updatedAt": 1784405445
+    "updatedAt": 1784492046
   },
   {
     "appId": 2646460,
@@ -3590,7 +3593,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/0871f08237fc0829756f0e6de4c8b8f0eed2181d/header.jpg?t=1783672320",
     "steamUrl": "https://store.steampowered.com/app/2646460/",
-    "updatedAt": 1784405451
+    "updatedAt": 1784492051
   },
   {
     "appId": 244850,
@@ -3627,7 +3630,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244850/1ec501a4be57139dd10219dc6b8434cef26984c5/header.jpg?t=1777915333",
     "steamUrl": "https://store.steampowered.com/app/244850/",
-    "updatedAt": 1784405453
+    "updatedAt": 1784492054
   },
   {
     "appId": 207140,
@@ -3661,7 +3664,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/header.jpg?t=1784135675",
     "steamUrl": "https://store.steampowered.com/app/207140/",
-    "updatedAt": 1784405319
+    "updatedAt": 1784491926
   },
   {
     "appId": 393380,
@@ -3699,7 +3702,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/0b19b50aabea356bd8f534fbe7d6db9bd227810a/header.jpg?t=1784319638",
     "steamUrl": "https://store.steampowered.com/app/393380/",
-    "updatedAt": 1784405355
+    "updatedAt": 1784491962
   },
   {
     "appId": 413150,
@@ -3713,9 +3716,9 @@
     "reviews": [
       "価格に対して破格のボリューム 世界観で「ん？」って思う部分がなくもないが、許容範囲内 その気になればいくらでも遊べる一方 軽い気持ちで手を出すと量が多すぎて辛いかも知れない 気晴らしに軽くというよりは 本腰を入れてやるタイプのゲームだと思う",
       "Switch版も数十時間やったのに！何回やっても面白すぎる！ どうなってるんだこのゲームは！ 地形が変わると新鮮な気持ちで挑めてしまう そしてまたセブを口説いちゃったね 𝔼𝕋𝔼ℝℕ𝔸𝕃 𝕃𝕆𝕍𝔼...",
+      "想像してた1000倍面白かったです。 始める前は牧場物語のほうが日本らしくて良いでしょうぐらいで思っていたのですが、 まったく似ても似つかないほど完成度が高く、幅も奥も深いゲームで驚きました。 比較対象に名作のMinecraftを持ってきたくなるほどすばらしいゲームです。 自由でありつつも、やることが定期的にゲーム側から供給される点でいえば、Minecraftみたいにやることが思いつかない なんてこともなく、常にやること、やりたいことで溢れて忙殺され、あっという間に季節が変わって…みたいな。面白すぎます。",
       "少し前のセールで購入しました。 牧場物語ライクな本作は、よりクラフトに寄ったような作りに感じましたが、 その中毒性の高いこと。。。 久しぶりに没頭してしまい、あっという間にプレイ時間が１００時間を超えました。 良かった点 ・キャラクター 個性的かつ温かみのあるように感じました。 会話パターンは本家に比べれば、ですが、イベント等できちんと相手の心情や変化が 垣間見れるようになっています。 表現や個性は、海外的、といえる範疇で、翻訳の不備による点は見受けられたものの 個人的にはそこまで違和感なく進められました。 ・稼ぎ",
       "ライト層向けゲーム ・スタッシュが狭い ・スタッシュだらけになる ・人間関係の友好度に振り回される MODありきの評価が多いのに、未だに公式対応になってないので自己メンテできないと本当に苦労しますよ。",
-      "想像してた1000倍面白かったです。 始める前は牧場物語のほうが日本らしくて良いでしょうぐらいで思っていたのですが、 まったく似ても似つかないほど完成度が高く、幅も奥も深いゲームで驚きました。 比較対象に名作のMinecraftを持ってきたくなるほどすばらしいゲームです。 自由でありつつも、やることが定期的にゲーム側から供給される点でいえば、Minecraftみたいにやることが思いつかない なんてこともなく、常にやること、やりたいことで溢れて忙殺され、あっという間に季節が変わって…みたいな。面白すぎます。",
       "When I play this game after losing a competitive game against others, it really calms me down, and I appreciate the fact that there are no winners or losers.",
       "いつも格闘、戦略、FPSなどメインだからチルりたくて買った ダンジョンなどは簡単だけど、やっと目当ての果物を収穫して公民館に納品するため向かいながら食った たくさん作ったやつなら良いけど、食っちゃダメなやつ食った 釣りも目当ての魚を凄い苦労して釣った。食った。無くなった。 「あっ！……。」しか言えなかった。 気晴らしにダンジョンに行くことにした。 爆弾を作成して、いざダンジョンへ！ 行く前にその場に爆弾を置いた あたふたした 拾えないし、導火線の火も消せないし ボンバーマンみたいに蹴り飛ばす事も出来ない 色々な物が",
       "定価でも高くなく、セールでは絶対買った方が良いゲーム とても優しくて暖かくて平和で、こんなにほっこりするゲームは他にないかもしれません たった一人で情熱をかけてこのゲームを作ったことで有名な製作者様、次回作ももうすぐ完成するとのことでかなり期待しています"
@@ -3734,14 +3737,14 @@
       "supportedLanguages": "英語, ドイツ語, スペイン語 - スペイン, 日本語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, フランス語, イタリア語, ハンガリー語, 韓国語, トルコ語"
     },
     "reviewSummary": {
-      "totalReviews": 1972,
-      "totalPositive": 1862,
+      "totalReviews": 1973,
+      "totalPositive": 1863,
       "totalNegative": 110,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
     "steamUrl": "https://store.steampowered.com/app/413150/",
-    "updatedAt": 1784405300
+    "updatedAt": 1784491905
   },
   {
     "appId": 281990,
@@ -3783,7 +3786,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg?t=1782139685",
     "steamUrl": "https://store.steampowered.com/app/281990/",
-    "updatedAt": 1784405402
+    "updatedAt": 1784492006
   },
   {
     "appId": 674940,
@@ -3817,7 +3820,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg?t=1730715399",
     "steamUrl": "https://store.steampowered.com/app/674940/",
-    "updatedAt": 1784405318
+    "updatedAt": 1784491925
   },
   {
     "appId": 1364780,
@@ -3831,11 +3834,11 @@
       "調整が少なすぎる。 中山ディレクターの振る舞いも耐えられない。 プレイヤーより運営側に対する不快感が強い。",
       "アンガーマネジメントに失敗してコントローラ破壊、机の凹み、左手の拳の骨にひびが入りました 治療費や修理費は自腹になるので気を付けたほうがいいです。",
       "一番長く遊んだのはワールドツアー。最初は絶対に勝てないと思っていた強敵に勝てるようになると、成長を感じられて嬉しい。 対人も面白い。自分とちょうど同じくらいのレベルの相手とマッチングできるので、僅差で勝ったり負けたりを楽しめる。 初心者からスタートして、試行錯誤の上、マスターに上がれた時は、本当に嬉しかった。",
-      "ストレスがすごい イングリッドの性能とBGMが本当にイライラする あと妙にリアルなグラフィックのせいでキンバリーとかイングリッドの顔が本当にかわいくない",
       "格闘ゲーマー目線でスト6の凄いところをレビューします。 ランクマッチのシステムが凄い。スト6はランクマッチ検索が独立で動くので、プラクティスに入らなくても入っていても検索が続く。鉄拳のような一般的なソフトだとスタートメニュー押した時点でマッチングにストップが入るがスト6は入らない。格闘ゲームではマッチングが命なのでここは本当に凄いです。 CPUが本当に凄い。Lv8はほとんど対人戦と同じ動きが入っているので対人戦を特別視する必要がない。CPUリュウで言えば波動で飛ばせて昇竜拳で落とし、距離を詰めて投げと打撃で脅すまで",
-      "ゲームは面白いし作り込みもしっかりあって人気もある オンラインの対戦環境はすごく充実している ゲームをより理解すればSF6の世界大会を観るのも面白いし、一つの巨大なコンテンツとして楽しめる しかし私がこのゲームをおすすめするかというと「しない」になる なぜならこのゲームは膨大な時間を要すします ゲームのシステムを理解して自分のキャラの動かし方を覚えて、相手のキャラの動きを覚えて、ボタンを押す状況とタイミングを覚えてとたくさんの時間を費やします もちろん自分が強くなっていったり、ポイントを積み重ねていくのは楽しいです",
-      "[b][h1] 我が人生なり [/h1][/b] やっとの想いで出せた[b]波動拳[/b] さらにやっとの想いで体得した[b]昇竜拳[/b] もう無理と挫折しかけた[b]SAコンボ[/b] そして強者と闘うほど沸騰する[b]闘争心[/b] 燃え上がる[b]渇望。[/b] 湧き出す[b]力。力。力。[/b] 誰よりも求めた[b]力。力。力。[/b] それを存分に堪能できるSF6は正しく[b]人生[/b]といえよう。 [b][i]天晴れだ。生涯、このゲームを忘れることはないだろう。[/b] [/i]",
-      "グラフィックが素晴らしい。全格ゲーの中で最も視認性が高いと思います。"
+      "グラフィックが素晴らしい。全格ゲーの中で最も視認性が高いと思います。",
+      "モダン、クラシックどちらの操作タイプを選んでも簡単にコンボができる格闘ゲームの特異点となった神ゲー。 稼働初期から豪鬼追加くらいの時、全キャラ対策しまくって手探りケンでやっとルーキーからマスターに行った男です。イングリッド追加で久しぶりに再開して今は全キャラマスターにしてる途中です。 配信者に憧れて対戦を始めた初心者さんはまずコンボ練習からしよう。モダンは必要ない。 一つだけでいいから「あの配信者こんなコンボしてたなあ」っていうコンボでいいです。 コンボができるようになったらランクマッチに行ってみよう。対人戦をやっ",
+      "ストレスがすごい イングリッドの性能とBGMが本当にイライラする あと妙にリアルなグラフィックのせいでキンバリーとかイングリッドの顔が本当にかわいくない",
+      "ゲームは面白いし作り込みもしっかりあって人気もある オンラインの対戦環境はすごく充実している ゲームをより理解すればSF6の世界大会を観るのも面白いし、一つの巨大なコンテンツとして楽しめる しかし私がこのゲームをおすすめするかというと「しない」になる なぜならこのゲームは膨大な時間を要すします ゲームのシステムを理解して自分のキャラの動かし方を覚えて、相手のキャラの動きを覚えて、ボタンを押す状況とタイミングを覚えてとたくさんの時間を費やします もちろん自分が強くなっていったり、ポイントを積み重ねていくのは楽しいです"
     ],
     "price": {
       "isFree": false,
@@ -3852,13 +3855,13 @@
     },
     "reviewSummary": {
       "totalReviews": 4703,
-      "totalPositive": 3023,
-      "totalNegative": 1680,
+      "totalPositive": 3022,
+      "totalNegative": 1681,
       "scoreDescription": "Mixed"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1782095044",
     "steamUrl": "https://store.steampowered.com/app/1364780/",
-    "updatedAt": 1784405324
+    "updatedAt": 1784491930
   },
   {
     "appId": 310950,
@@ -3895,7 +3898,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310950/header.jpg?t=1759109525",
     "steamUrl": "https://store.steampowered.com/app/310950/",
-    "updatedAt": 1784405328
+    "updatedAt": 1784491934
   },
   {
     "appId": 286160,
@@ -3930,7 +3933,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg?t=1772387518",
     "steamUrl": "https://store.steampowered.com/app/286160/",
-    "updatedAt": 1784405323
+    "updatedAt": 1784491929
   },
   {
     "appId": 440,
@@ -3960,14 +3963,14 @@
       "supportedLanguages": "英語*, デンマーク語, オランダ語, フィンランド語, フランス語, ドイツ語, イタリア語, 日本語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, ロシア語, 中国語（簡体字）, スペイン語 - スペイン, スウェーデン語, 中国語（繁体字）, 韓国語, チェコ語, ハンガリー語, ポルトガル語－ブラジル, トルコ語, ギリシャ語, ブルガリア語, ルーマニア語, タイ語, ウクライナ語, スペイン語－ラテンアメリカ*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 1890,
-      "totalPositive": 1675,
+      "totalReviews": 1889,
+      "totalPositive": 1674,
       "totalNegative": 215,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372",
     "steamUrl": "https://store.steampowered.com/app/440/",
-    "updatedAt": 1784405346
+    "updatedAt": 1784491954
   },
   {
     "appId": 389730,
@@ -4001,7 +4004,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/header.jpg?t=1765812753",
     "steamUrl": "https://store.steampowered.com/app/389730/",
-    "updatedAt": 1784405325
+    "updatedAt": 1784491931
   },
   {
     "appId": 105600,
@@ -4036,14 +4039,14 @@
       "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）"
     },
     "reviewSummary": {
-      "totalReviews": 4514,
-      "totalPositive": 4233,
+      "totalReviews": 4516,
+      "totalPositive": 4235,
       "totalNegative": 281,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
     "steamUrl": "https://store.steampowered.com/app/105600/",
-    "updatedAt": 1784405415
+    "updatedAt": 1784492017
   },
   {
     "appId": 306130,
@@ -4058,11 +4061,11 @@
       "[h1]DMM版からデータを引き継いでSteam版へ移行してみた[/h1] いくつか不安な点もあるかと思いますので、実際に行った手順も含め私の環境下での情報を書いておきます。まずは日本語環境から。今後のアップデートについては不明ですが、少なくとも現時点（2026年6月26日現在）ではテキストもボイスもフル対応しています。Steam版では「The Elder Scrolls Online: Standard Edition」を購入。DMM版で購入していたDLCエリアへもアクセス出来ました。所持していたクラウンも引き継",
       "Steamにお引越ししてくるくらいには好き。 この者は盗みでお金を稼いで遊んだり、通りすがりの海外の方に「Your look is insane」って言われながら派手なピンクの衣装で走り回っている。 今までいろんなゲームをやってきてるけど、クエストの文章を読んだことがあるのはTESOだけかもしれない。 もっと日本人増えないかな～～～～～～～～～ 増えないかな～～～～～～ お～～～～～～い！！",
       "非常に残念ですが、サーバのメンテが入った後、「アカウント停止」となり遊べなくなりました。 購入してすぐだったため返金出来ましたが、「何もしていないのにアカウント停止」「申し込みしてもアカウント回復するかわからない」状態では保持していても仕方ないので返品しました。 楽しみにしていたのに残念でした。",
-      "良い所 ・ロケーションがTESシリーズ最多 ・生前のガレリオンやマニマルコ等のビッグネームと出会える ・新しいデイドラロードがいる 悪い所 ・「戦闘システム・操作性・クラフト・ハウジング・没入感」がSkyrimに比べて大幅に下回っている ・多くのセリフがチープでTESらしさが無い ・追加シナリオと既存シナリオの整合性が取れていないところがチラホラ(例えばSkyrimならDLCドラゴンボーンをクリアした後であれば霊魂の確認でモラのセリフが変わるが、ESOにはその様な分岐が無く、顔見知りが初対面のように扱ってくる) ・",
       "なんかすぐイベントりがいっぱいになった 物語が頭に入ってこない 成長の度合いがわからない 容量が１５０gこえてるＷ クラフトが機能してない感じする 作ってもほぼ意味ない 結論から言うとできの悪い ソシャゲにも及ばないところを 感じてしまう",
-      "つまらないとは思わないが、まだ低レベルだからなのか戦闘が毎回毎回楽勝である。ここまで簡単にサクサク敵を打ち負かしてしまうと、レベルアップで成長してもうれしくない。友人と一緒にプレイしているので続いているが、ひとりでは退屈してしまいそうだ。",
+      "良い所 ・ロケーションがTESシリーズ最多 ・生前のガレリオンやマニマルコ等のビッグネームと出会える ・新しいデイドラロードがいる 悪い所 ・「戦闘システム・操作性・クラフト・ハウジング・没入感」がSkyrimに比べて大幅に下回っている ・多くのセリフがチープでTESらしさが無い ・追加シナリオと既存シナリオの整合性が取れていないところがチラホラ(例えばSkyrimならDLCドラゴンボーンをクリアした後であれば霊魂の確認でモラのセリフが変わるが、ESOにはその様な分岐が無く、顔見知りが初対面のように扱ってくる) ・",
       "2026年 7月17日記。ああ、やれやれ、関東地方にもの凄い雷鳴が鳴り響く中で、これまで DMM Gamesで愉しんでいた、エルダー スクロールズ オンライン日本語版（一時はずいぶんやりこんでいたのですが、最近はちょっと難しいクエストが多くなり、遠ざかっていました。このゲームは、いわば終わりのないゲームなもので。）の運営が、7月21日にDMMの手から離れるとのことで、これまでのファイルを、Steam へ移行することに、何とか成功しました。どういうふうにリンクしたらいいのか、分からないことだらけでしたし、細かいことを",
-      "デラックス版を買って１００時間くらいプレイしてみた初心者の感想としては、面白いかも？です。今のところオススメはアルカニストやドラゴンナイトのマジカ振りかな？なお、預言者のメインクエ終わるとインベントリへの攻撃が始まりますｗなので、そのタイミングでサブスクに入るかインベ開放用に金策でサブキャラ育成に入ると思います。ただ、課金して遊んででゲーム内マネーでＤＬＣコンテンツ開放してくださいって運営方針っぽいのでセールの時にノーマルからはじめても良いのかも知れません。（初期キャラが扱いやすく強い印象)。ただ、種族間のバランス"
+      "デラックス版を買って１００時間くらいプレイしてみた初心者の感想としては、面白いかも？です。今のところオススメはアルカニストやドラゴンナイトのマジカ振りかな？なお、預言者のメインクエ終わるとインベントリへの攻撃が始まりますｗなので、そのタイミングでサブスクに入るかインベ開放用に金策でサブキャラ育成に入ると思います。ただ、課金して遊んででゲーム内マネーでＤＬＣコンテンツ開放してくださいって運営方針っぽいのでセールの時にノーマルからはじめても良いのかも知れません。（初期キャラが扱いやすく強い印象)。ただ、種族間のバランス",
+      "当方スカイリム5周くらいしたスカイリムプレイヤーです。良い点はタムリエルを冒険できる、スカイリムの1000年前という設定もあり、タムリエルの歴史が学べます。フィールド探索も隅々まで作りこんでいて関心します。あと日本語吹き替えなので会話などがスラスラ頭に入ってきます。悪いところは通常攻撃と強攻撃が死んでます。スキルを連打するだけで敵があっという間に死にます。爽快感無し、達成感無し、操作感無し。フィールドボスとかはいないです。七時間プレイしましたが未だに手ごたえのあるボスには会ってないです。古参プレイヤーなどがこのゲー"
     ],
     "price": {
       "isFree": false,
@@ -4085,7 +4088,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/fd742492ed265c6350209d09d275673f7d29afb2/header_japanese.jpg?t=1783621796",
     "steamUrl": "https://store.steampowered.com/app/306130/",
-    "updatedAt": 1784405421
+    "updatedAt": 1784492023
   },
   {
     "appId": 2073850,
@@ -4125,7 +4128,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/61f55ef49a74c76bf9fda9ec35bc3101eeee2b3e/header.jpg?t=1783602452",
     "steamUrl": "https://store.steampowered.com/app/2073850/",
-    "updatedAt": 1784405462
+    "updatedAt": 1784492063
   },
   {
     "appId": 2074920,
@@ -4154,14 +4157,14 @@
       "supportedLanguages": "英語*, 日本語, 中国語（簡体字）, 中国語（繁体字）, 韓国語*, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポーランド語, ポルトガル語－ブラジル, ロシア語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 935,
-      "totalPositive": 471,
+      "totalReviews": 936,
+      "totalPositive": 472,
       "totalNegative": 464,
       "scoreDescription": "Mixed"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074920/d6ab480d5d08d13363287bfc103ce62e2bb28c65/header.jpg?t=1781267897",
     "steamUrl": "https://store.steampowered.com/app/2074920/",
-    "updatedAt": 1784405463
+    "updatedAt": 1784492065
   },
   {
     "appId": 242760,
@@ -4190,14 +4193,14 @@
       "supportedLanguages": "英語*, フランス語, ドイツ語, チェコ語, フィンランド語, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, スウェーデン語, 中国語（繁体字）, トルコ語, イタリア語, スペイン語 - スペイン*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 1193,
-      "totalPositive": 1056,
+      "totalReviews": 1194,
+      "totalPositive": 1057,
       "totalNegative": 137,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
     "steamUrl": "https://store.steampowered.com/app/242760/",
-    "updatedAt": 1784405446
+    "updatedAt": 1784492047
   },
   {
     "appId": 594570,
@@ -4239,7 +4242,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/header.jpg?t=1780389571",
     "steamUrl": "https://store.steampowered.com/app/594570/",
-    "updatedAt": 1784405412
+    "updatedAt": 1784492015
   },
   {
     "appId": 1142710,
@@ -4275,7 +4278,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1784197039",
     "steamUrl": "https://store.steampowered.com/app/1142710/",
-    "updatedAt": 1784405413
+    "updatedAt": 1784492016
   },
   {
     "appId": 1016920,
@@ -4313,7 +4316,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1773842519",
     "steamUrl": "https://store.steampowered.com/app/1016920/",
-    "updatedAt": 1784405317
+    "updatedAt": 1784491924
   },
   {
     "appId": 304930,
@@ -4341,14 +4344,14 @@
       "supportedLanguages": "英語"
     },
     "reviewSummary": {
-      "totalReviews": 874,
-      "totalPositive": 777,
+      "totalReviews": 875,
+      "totalPositive": 778,
       "totalNegative": 97,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304930/161ec2d6ace8a03afdb7a423510ff8f7d8b301ba/header.jpg?t=1783436894",
     "steamUrl": "https://store.steampowered.com/app/304930/",
-    "updatedAt": 1784405398
+    "updatedAt": 1784492002
   },
   {
     "appId": 1604030,
@@ -4384,7 +4387,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/be49834ab147ad22ba17005fb847c93917d18b97/header.jpg?t=1782909978",
     "steamUrl": "https://store.steampowered.com/app/1604030/",
-    "updatedAt": 1784405435
+    "updatedAt": 1784492035
   },
   {
     "appId": 892970,
@@ -4413,14 +4416,14 @@
       "supportedLanguages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, ロシア語, 中国語（簡体字）, トルコ語, 日本語, ポルトガル語－ブラジル, ポーランド語, ウクライナ語, イタリア語, 韓国語, 中国語（繁体字）"
     },
     "reviewSummary": {
-      "totalReviews": 1731,
+      "totalReviews": 1734,
       "totalPositive": 1412,
-      "totalNegative": 319,
+      "totalNegative": 322,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1782131035",
     "steamUrl": "https://store.steampowered.com/app/892970/",
-    "updatedAt": 1784405374
+    "updatedAt": 1784491983
   },
   {
     "appId": 1794680,
@@ -4432,12 +4435,12 @@
     ],
     "reviews": [
       "ゲームを始める前は、 「今日は30分だけ遊ぼう。」 そう思っていた。 Vampire Survivorsは、それができるゲームだった。 1プレイ約30分。 少し時間が空いたときでも、 寝る前でも、 「今日はこの1回だけ」と区切りをつけやすい。 だから毎日のように起動していた。 ゲームの内容は驚くほどシンプルだ。 キャラクターを動かし、 押し寄せる敵を生き延びる。 攻撃は自動。 レベルアップするたびに武器やアイテムを選び、 自分だけのビルドを作っていく。 ローグライクらしく、毎回違う組み合わせが生まれるので、同じプレ",
-      "元々スマホゲーやソシャゲのミニゲームとして、ヴァンサバモチーフのローグライクは何度かプレイしていました。 サマーセールにて370円ほどで購入しましたが、この値段でここまで遊べるとは思いませんでした。もちろん良い意味で！ 最初は森の骸骨ラッシュですら越えられなかったのですが、強化したりキャラを変えたりしてくり返していくうちに最後までクリアできるようになり、達成感が味わえて気持ちいいです。一歩も動かずに最後の5分をやりきれた時はたまらないです。 まだ購入してから3日も遊んでいませんが、まだまだやり込めそうなのでこれから",
       "今や一大ジャンルと化したヴァンサバライクの元祖 やってることは２D無双＋ローグライクなのだがそれがシンプルに奥深くて面白い 元祖ゆえに今となってはツッコミどころと化している部分もあるがそれ込みで面白い 名作です買いましょう",
       "※全実績解除済 ヴァンサバライクの原点にして至高ッッ！！ 親しみのあるドット絵・パチンコのような派手な演出・自キャラが強くなっていくのを眺めるドラッグのような中毒性。 それだけで２・３時間ならあっという間に溶ける。 それに加えて最初は貧弱なキャラクターも永続強化を開放していくことで一見して強くなる。 アルカナという一部武器や性能を特化させられるカードみたいなものを使うことでビルドの幅もかなり広くなりさらに中毒性が増した。 総じて値段のわりにリターンがかなり大きいと感じる。（DLCも良心的値段） パソコンのスペックを",
       "今や一大ジャンルだけど、ぶっちゃけ奇跡が起きて天文学的な確率で偶然面白くなったユーロシューティングなんだよなあ",
-      "アドベンチャーモードとか今まで出してきたキャラも使わせてくれないおもんないモードつくったせいで楽しくない",
       "いいげーむ 安い ローグライト、敵が勝手に画面中央のキャラクターに集まってくる キャラクターは勝手に持ってる武器を使って迎撃するので、プレイヤーは序盤は敵を避けてみたりして、DPSを調整して 段々進化武器や武器相性とか意識して、そしたら１５～３０分で1ゲームが終了して 上手くいかなくて、もう一回が中毒性あって 短期間のゲームレベル、長期間のゲームレベル、ゲーム体験、とてもよい 育成要素も多いし、実績とか特殊アイテムとか多いし、なんなら放置ゲーまで行く なのにプレイヤーの操作負担は最初からほぼなく、なんならどんどん少",
+      "アドベンチャーモードとか今まで出してきたキャラも使わせてくれないおもんないモードつくったせいで楽しくない",
+      "元々スマホゲーやソシャゲのミニゲームとして、ヴァンサバモチーフのローグライクは何度かプレイしていました。 サマーセールにて370円ほどで購入しましたが、この値段でここまで遊べるとは思いませんでした。もちろん良い意味で！ 最初は森の骸骨ラッシュですら越えられなかったのですが、強化したりキャラを変えたりしてくり返していくうちに最後までクリアできるようになり、達成感が味わえて気持ちいいです。一歩も動かずに最後の5分をやりきれた時はたまらないです。 まだ購入してから3日も遊んでいませんが、まだまだやり込めそうなのでこれから",
       "原点にして頂点の最高のゲーム"
     ],
     "price": {
@@ -4454,14 +4457,14 @@
       "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, トルコ語, ウクライナ語, 中国語（繁体字）"
     },
     "reviewSummary": {
-      "totalReviews": 3679,
-      "totalPositive": 3575,
+      "totalReviews": 3680,
+      "totalPositive": 3576,
       "totalNegative": 104,
       "scoreDescription": "Overwhelmingly Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/2ca07b690dde645771125ed9d9206c4c5fde4dd4/header.jpg?t=1781096909",
     "steamUrl": "https://store.steampowered.com/app/1794680/",
-    "updatedAt": 1784405320
+    "updatedAt": 1784491927
   },
   {
     "appId": 438100,
@@ -4475,12 +4478,12 @@
     "reviews": [
       "私の友人3人と始めましたが、ハマった一人が誕生日会で告白して振られて地獄みたいな空気が流れました。 2人は他界して二度と合うことができなくなりました 一回自分のやってる行動を達観してみてください。 あなたが勉学に励んでいたのはこんなバーチャルオンラインホモキャバクラに 数万数十万と課金して、男の声がする女の子のアバターに欲情して変な機械を付けて寝ることなんでしょうか。 現実では女に相手にされず、声も顔も出せない弱虫が、バーチャルの中だけ「かわいいね」「好きだよ」とか言われて舞い上がってる姿が、どれだけ惨めで救いよう",
       "第二の人生が始まる 第一の人生は壊れる デスクトップでもできるけど、会話一つにしても没入感が全然違うので是非VRでやって欲しい お試しとしてデスクトップをするのはアリ ゲームではなくアバターを介したリアルタイムSNSのようなものなので、自分から何かしら行動や発言を起こした方が長続きすると思う",
+      "このゲームを楽しむためのいくつかの心得を共有しておきます まず性欲に流されてはいけません。男性であろうと女性であろうとこれは共通です。このゲームはいい意味でも悪い意味でも外見に左右されません。豊満できわどい格好をしているかわいい声の女の子も筋肉質で声も渋くて格好いいイケメンの男性もいくらでもいます。 ですが冷静になりましょう。VRCで本気でメロい男や魔性の女を気取っている人は大抵碌な人間ではありません。リアルでは異性に相手にされず、自分磨きも面倒くさい、そんな人間が9割です。あなたの人生の貴重な時間をそう言った人間",
       "ホモかメンヘラかやばいやつしかいないゲーム 金くれって言われたから断るとブロックされる（？？？） みんなずっと鏡見てどうしたの？現実の鏡も見る？ ふにゃふにゃした声出してる人が29歳とかでまじでドン引きした もしやるとしたらお砂糖とかには絶対触れないほうがいいです \"元\"フレンドがお砂糖関連で病んだりしていたので ゲームワールドにいる人は多少まともだったりします やばいフレンドを見て目が覚めました ありがとう！",
+      "自分はVRCにあまり浸かってないですが、このゲームのせいで10年目の親友が自〇未遂しました。 VRCにハマり、学校やバイトなど人生の全てを捨て、人間関係がもつれてしまい上記の経緯に至ったそうです。 正しい使い方をすればこのゲームは楽しいと思いますが、大体の人は正しい使い方ができないので本当に本当に一度このゲームを軽い気持ちでプレイする前に思いとどまってください。 このゲームで人生が狂います。本気です。 このコメントを見た人が幸せになりますように。",
       "自分が正常であるということを確かめるには最適なゲーム。 僕は１時間行かないうちに抜け出せました",
       "このゲームを2019年に始め、色々な事がありました 2026年現在 このゲームをおすすめした友達がそんなにハマらないから大丈夫 と発言してから数か月後 メスガキになって現実に戻ってこなくなりました。 このゲームで配信をしており、リスナーの方におすすめをし、楽しみ方ややり方を教えたところ 数か月後にはそのおすすめしたリスナーさんは私の配信から消え去り、VRCHATでプライベートに籠るようになりました。 始めた当初はいかつい男性のアバターやネタアバターを使っていた知り合いが 月日が経つにつれて可愛いく露出の激しい姿にな",
-      "面白い。 特に人と話すのが好きな人ならより深くハマるかも？ 一言でVRChatを表すなら、「好きな自分になって色んなワールドに行ける場所」だと自分は思います。何故かって？まぁ分かりきってると思うけど色んなアバターがあって、好きな自分（自身は男だけど女の人のアバター使ったり人外使ったり）になって、数え切れない程のワールドを巡って、人と話すのにハマってもヨシ、ゲームをするワールドで実績埋めをするために籠ってもヨシ、ネットの人と付き合うのもヨシ、と言った感じでマジでやらなきゃ分からない楽しさだと思います。 なので、 やり",
-      "It’s a game without a specific goal, but the fact that there’s no specific objective is part of the fun.",
-      "このゲームを楽しむためのいくつかの心得を共有しておきます まず性欲に流されてはいけません。男性であろうと女性であろうとこれは共通です。このゲームはいい意味でも悪い意味でも外見に左右されません。豊満できわどい格好をしているかわいい声の女の子も筋肉質で声も渋くて格好いいイケメンの男性もいくらでもいます。 ですが冷静になりましょう。VRCで本気でメロい男や魔性の女を気取っている人は大抵碌な人間ではありません。リアルでは異性に相手にされず、自分磨きも面倒くさい、そんな人間が9割です。あなたの人生の貴重な時間をそう言った人間"
+      "面白い。 特に人と話すのが好きな人ならより深くハマるかも？ 一言でVRChatを表すなら、「好きな自分になって色んなワールドに行ける場所」だと自分は思います。何故かって？まぁ分かりきってると思うけど色んなアバターがあって、好きな自分（自身は男だけど女の人のアバター使ったり人外使ったり）になって、数え切れない程のワールドを巡って、人と話すのにハマってもヨシ、ゲームをするワールドで実績埋めをするために籠ってもヨシ、ネットの人と付き合うのもヨシ、と言った感じでマジでやらなきゃ分からない楽しさだと思います。 なので、 やり"
     ],
     "price": {
       "isFree": true,
@@ -4496,14 +4499,14 @@
       "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 中国語（繁体字）"
     },
     "reviewSummary": {
-      "totalReviews": 3198,
-      "totalPositive": 2626,
+      "totalReviews": 3201,
+      "totalPositive": 2629,
       "totalNegative": 572,
       "scoreDescription": "Very Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1762366454",
     "steamUrl": "https://store.steampowered.com/app/438100/",
-    "updatedAt": 1784405429
+    "updatedAt": 1784492029
   },
   {
     "appId": 230410,
@@ -4514,14 +4517,14 @@
       "coop"
     ],
     "reviews": [
-      "新規ミッションが連戦できない。 ミッション終了後ミッションを中断する以外の選択肢がなくホストの報酬がロストする。 ミッションの状況遷移時にフレームからAW状態に変更され地上を這うしかできなくなる。フレームのアビリティは使用できない。またドアがロックされ分隊員がミッションから締め出される。 マルチで新規ミッションに挑戦時デフォルトロードアウトのレールジャックしか使用できない。 新規ミッションの必要周回数が多い。新規ミッションのクリアに必要な時間が長い。 デフォルトロードアウトのRJが低下力なためミッションクリアに時間",
       "序盤は苦しいかもしれないが、続ければ続けるほど味がするゲームです。 ストーリーは気になったら調べるくらいで丁度いいかと 色々な武器種やキャラクター、個性豊かな…というか癖の集まりです。 10年前のゲームだしな～と思わずに一度触ってみることをおすすめします！",
       "おもしろいんだろうけど・・・ ミッション受けるのもどこでうければいいんだよ・・・ 初心者には難しすぎてやめちゃったよ・・・",
       "[h3] <無限のビルド> [/h3] 何をするゲームかと言われれば、非常に簡単。 フレーム（Apexでいうレジェンドだと思えばいい）は64種類。武器は数千種類。 それらにMODと呼ばれるカスタマイズパーツを挿し、自分好みのビルドをひたすら作る。 ただそれだけのゲームであり、それだけの要素にこのゲームの楽しさが全て詰まっている。 自分でビルドを開拓するもよし、人のをパクるのも良し。 出来た装備で太陽系の悪い奴らを気持ちよくぶっ飛ばす。 良い装備ができたら誰かに自慢するのもいいだろう。 リリースから13年経って尚、世",
       "控えめに言って神作。ただのアクションゲームの領域を逸脱していて何時間やっても全く飽きないし、最近日本人ユーザも増えてきているからやるなら今しかない。唯一欠点を挙げるとすればほかのゲームができなくなるくらい。ニンジャナなら無料！！",
       "チュートリアルが長いけどそこを抜けたらめっちゃおもろい",
       "筋トレみたいに毎日コツコツプレイして強くなっていくのが好きな人にはおすすめします。",
-      "頭カラッポにして敵の集団をぶっ飛ばすために死ぬほど頭使ってビルドを考えるゲーム。 もしくは自分のコーディネートした最高にカッコいいフレームを見せびらかすゲーム。 ジャンル的にはTPS＋無双系＋ハクスラのPvE。ミッションに出て敵を倒して素材とお金を集めて強い装備を作ったら、またミッションに出て敵を倒して……というよくあるやつ。 オンゲーなのでどうしても最初のうちが冗長になりがちだが、課金要素も薄いのでとりあえず遊んでみて世界観がハマれば続けてみればいい。 基本はマルチプレイ前提だがソロでも普通に遊べるし、野良マルチ"
+      "頭カラッポにして敵の集団をぶっ飛ばすために死ぬほど頭使ってビルドを考えるゲーム。 もしくは自分のコーディネートした最高にカッコいいフレームを見せびらかすゲーム。 ジャンル的にはTPS＋無双系＋ハクスラのPvE。ミッションに出て敵を倒して素材とお金を集めて強い装備を作ったら、またミッションに出て敵を倒して……というよくあるやつ。 オンゲーなのでどうしても最初のうちが冗長になりがちだが、課金要素も薄いのでとりあえず遊んでみて世界観がハマれば続けてみればいい。 基本はマルチプレイ前提だがソロでも普通に遊べるし、野良マルチ",
+      "just the best game i've ever played!!!!!!!!!! I RECOMMEND MY DAD IS GOING TO BEAT ME!"
     ],
     "price": {
       "isFree": true,
@@ -4544,7 +4547,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/a000b4bf98dde5d51cd44206f1ac21d04841017e/header.jpg?t=1783809792",
     "steamUrl": "https://store.steampowered.com/app/230410/",
-    "updatedAt": 1784405416
+    "updatedAt": 1784492018
   },
   {
     "appId": 1361210,
@@ -4576,14 +4579,14 @@
       "supportedLanguages": "英語*, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 日本語, 韓国語, 中国語（繁体字）*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 257,
-      "totalPositive": 165,
+      "totalReviews": 258,
+      "totalPositive": 166,
       "totalNegative": 92,
       "scoreDescription": "Mixed"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/c9110a232b6ba7ef21039fc00e4582b2acfec810/header_alt_assets_19.jpg?t=1782226781",
     "steamUrl": "https://store.steampowered.com/app/1361210/",
-    "updatedAt": 1784405387
+    "updatedAt": 1784491993
   },
   {
     "appId": 552500,
@@ -4618,7 +4621,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/header.jpg?t=1764008361",
     "steamUrl": "https://store.steampowered.com/app/552500/",
-    "updatedAt": 1784405385
+    "updatedAt": 1784491992
   },
   {
     "appId": 2357570,
@@ -4630,14 +4633,14 @@
       "versus"
     ],
     "reviews": [
-      "このゲーム面白いときはガチおもろいよ おもんないときマジおもんないけど でもおかげで情緒不安定にしてくれて凄い振り回されるから楽しいよ",
       "勝率を50パーセントに近くするために運営が努力する最悪のゲーム。運営どこに力注いでるんもっと変えるとこあるって 本当に意味わからんランクマッチは楽しくなさすぎる運営ちゃんとしてほしい",
+      "このゲーム面白いときはガチおもろいよ おもんないときマジおもんないけど でもおかげで情緒不安定にしてくれて凄い振り回されるから楽しいよ",
       "ゲームとしてはとても面白いがランクマッチがほんとにks、 まず、マッチングシステムが終わってる。そして民度がほんとに悪い。暴言,差別,トロール,スマーフ,もう終わりだよ Tank gap gg",
-      "プレステの時からお世話になってる神ゲー、コレが無料で良いのかと思うほどのシューティングゲームです。もちろん課金要素はありますが、スキンに関するものばかりで、最近のありがちな課金したら強くなるだとか、某ゲームのようにキャラクターを解放するために、課金が必要なわけでもないです。私は、いつもありがとうの気持ちで課金させてもらってます。",
       "このゲームのマッチングシステム（クイックマッチ）の公平性は極めて低い。おそらく運営側がより多くの新規プレイヤーを呼び込みたいと考えているため、マッチングを通じて意図的に両チームの戦力を調整し、新規プレイヤーが「勝つ」という快感を得やすくしているのだろう。その結果、多くのプレイヤーが意図的に新規アカウントやサブアカウントを作成して不公平なマッチングを利用したり、ゲーム代行サービスを利用したりしており、特にVPNなしではプレイできないある国のプレイヤーにその傾向が顕著である。 他のゲームでは、多くの場合、同レベルのプレ",
-      "csで1500時間ほどプレイしました、まずこのゲームは負けると死にたくなるほど不快な気持ちになります、ですが勝ったときやキャリーした時は恐らくほとんどの人間が人生で感じる最大の快感を味わえます。ゲームを閉じるたびにもう二度とやらないと心に決めても数時間後もしくは数秒後にはにはモニターにOWと表示されています、低評価レビューをかいてる人もどうせ今もプレイしているでしょう。とにかく中毒性があり気づけば３年もやってました。",
+      "プレステの時からお世話になってる神ゲー、コレが無料で良いのかと思うほどのシューティングゲームです。もちろん課金要素はありますが、スキンに関するものばかりで、最近のありがちな課金したら強くなるだとか、某ゲームのようにキャラクターを解放するために、課金が必要なわけでもないです。私は、いつもありがとうの気持ちで課金させてもらってます。",
       "ランクの使用がガチでカス。味方も敵もランダム性があったほうがおもろいやろ調整すんなくそカスがぁ！とおもいました。なのでランク高いやつは全員暇人ニートかチーターとおもうようにこころがけています！ ちなみに僕はシルバーのざこなので8割言い訳です！ あと僕はバカで英語も韓国語もわからないのでチャットでは全員日本語よこせ",
-      "シオン追加アップデートに伴ってクラッシュ頻度が２試合に一回まで増えた。以前のバージョンでは一度も落ちていなく、ゲーム内設定はプリセットで低にしているHDR は不使用。 ライバルマッチのクラッシュで合計８時間ban記念レビュー。 また公式サポートは問い合わせがそもそもできない設計になっているため泣き寝入りするしかない。 このゲームはやる価値がない。"
+      "csで1500時間ほどプレイしました、まずこのゲームは負けると死にたくなるほど不快な気持ちになります、ですが勝ったときやキャリーした時は恐らくほとんどの人間が人生で感じる最大の快感を味わえます。ゲームを閉じるたびにもう二度とやらないと心に決めても数時間後もしくは数秒後にはにはモニターにOWと表示されています、低評価レビューをかいてる人もどうせ今もプレイしているでしょう。とにかく中毒性があり気づけば３年もやってました。",
+      "ランクが壊れているの一言につきる。最高ランクプラチナ5プレイ時間70時間の人が次のシーズンマスターになったりするゲームです。このゲーム程運営の思った通りのマッチングシステムになっているゲームは存在しないでしょう。"
     ],
     "price": {
       "isFree": true,
@@ -4653,14 +4656,14 @@
       "supportedLanguages": "英語*, フランス語*, イタリア語*, ドイツ語*, スペイン語 - スペイン*, 日本語*, 韓国語*, ポーランド語*, ポルトガル語－ブラジル*, ロシア語*, スペイン語－ラテンアメリカ*, 中国語（繁体字）*, 中国語（簡体字）**フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 4127,
+      "totalReviews": 4130,
       "totalPositive": 1679,
-      "totalNegative": 2448,
+      "totalNegative": 2451,
       "scoreDescription": "Mixed"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/217c51ee328bb2f97c66776bb92b1ddb3d8333fe/header_alt_assets_21.jpg?t=1784052338",
     "steamUrl": "https://store.steampowered.com/app/2357570/",
-    "updatedAt": 1784405348
+    "updatedAt": 1784491956
   },
   {
     "appId": 1049590,
@@ -4701,7 +4704,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049590/336519676b5dc241cb1675b11fa67d3321d55839/header.jpg?t=1783571296",
     "steamUrl": "https://store.steampowered.com/app/1049590/",
-    "updatedAt": 1784405364
+    "updatedAt": 1784491973
   },
   {
     "appId": 1172470,
@@ -4720,7 +4723,7 @@
       "ゲーム自体は良いが、バグが多い。あとショットガンが一生弱い。 わけわからんところでスタックしたり、時たま弾は抜けるし... こんなゲームするくらいなら勉強したほうが良い。 でも俺はそんなAPEXがなんだかんだ言って好き。",
       "ベテランばかりで初心者は狩られるだけでストレスのためるゲームです",
       "ユーザーに全部テストさせればいいと考えてるksgm運営 アプデのたびにバグが増える、何もテストしてない、ほんとに少しでも試せばわかるようなバグばっかり AIにコーディングさせて何もチェックしてないんじゃないの",
-      "キーマウとPADが同じ試合に混在してる時点でくだらないゲームです。 無駄にストレスを溜めるくらいならVALORANTを練習しましょう。 このゲームはあなたが思うほど偉大じゃない。"
+      "即降りしてて逃げんじゃねぇ！チキン野郎多すぎるだろ"
     ],
     "price": {
       "isFree": true,
@@ -4736,14 +4739,14 @@
       "supportedLanguages": "英語*, フランス語*, イタリア語*, ドイツ語*, スペイン語 - スペイン*, 日本語*, 韓国語*, ポーランド語*, ポルトガル語－ブラジル, ロシア語*, 中国語（簡体字）*, 中国語（繁体字）, スペイン語－ラテンアメリカ, アラビア語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 12859,
-      "totalPositive": 6418,
-      "totalNegative": 6441,
+      "totalReviews": 12864,
+      "totalPositive": 6422,
+      "totalNegative": 6442,
       "scoreDescription": "Mixed"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0bd74245b869287a2dc7f682e6013f7ed08d98e3/header.jpg?t=1778502442",
     "steamUrl": "https://store.steampowered.com/app/1172470/",
-    "updatedAt": 1784405343
+    "updatedAt": 1784491950
   },
   {
     "appId": 381210,
@@ -4755,14 +4758,14 @@
       "versus"
     ],
     "reviews": [
-      "このゲームを遊んではいけません。 民度が凄まじく悪い上に、運営も煽りなどを放置するなど最悪です。 その上、貞子やジェイソンといったビッグネームとコラボしては新規ユーザーを釣る始末。 ゲームバランスもガタガタで、自分が唯一台パンしたゲーム。 調べれば、このゲームの腐った所が大量に出てくると思います。 繰り返しますが、遊んではいけません。買わないでください。お金の無駄ですよ。",
       "キラーでも勝てるようになるまで練習すれば勝てるようになりますが、そこまでの時間を費やすなら 美味しいレストランでも探しているほうが有意義だと思います。勝敗を気にせずサバイバーを楽しませることに喜びを見いだせる慈善家の方にはお薦めのゲームです。",
       "発売日からずっと遊びたかったゲームで、4周年を迎える前頃にやっと遊べるようにして買いました。 とても楽しくて面白く、10周年を迎えるまで続いてくれている、最高のゲームだと思います。 煽られたり馬鹿にされることもありますが、その時の対戦相手の大半は子供なので気にしないで遊べばちゃんと楽しめると思います。 しかし、一つ注意点があります。課金などで入手できるゲーム内通貨「オーリックセル」の仕様が最悪です。有効期限があるので、早めに使い切れないと無効になり消滅します。さらに、有効期限が6ヶ月間しかなく、代替通貨に置き換わる",
       "スキン等を購入する為のゲーム内通貨のオーリックセルの購入はおすすめしません。 こちら決められた有効期限があります。 問題は、有効期限内であっても所有しているオーリックセルが突如消失することがあります。 運営に問い合わせた所、こちらの話した内容を無視して、肝心な部分の説明もせず、そういう仕様でシステムに問題なしとの一点張り。 極端な話、一万円分のオーリックセルを購入した次の日に消失してもシステム上問題ないと言ってるようなもの。 なのでいつ消失してもいい人のみ購入した方がいいです。",
-      "その他ゲームタイトルを含め、あらゆる居場所を無くしたであろう、チートまたは何かしらを抱えた者の最後の楽園を想像させるタイトル。チープと思わせるアンチチートプログラムは彼らを歓迎し引き留め、別ゲームから幽閉しているという点でこの上なく機能しているのではなかろうか。言語問わず誤BANとのたまうレビューの数もこのゲームの存在価値をあまりにも強烈に物語り、ゲーム内で他プレイヤーのsteamプロフィールを見る際に、BAN有りの表示を当たり前に目にできるのはこのタイトルだけだろう。にわかには信じ難いチーターというゲーマーとして",
       "7年ぶり位に復帰して遊んでます。 キャラも増えて賑やかになってるようでなにより。 サバイバー、キラーを8:2位で遊んでいる感想です。 ･サバイバー、キラーに関して ほぼサバイバーでプレイしていますが遊んで面白いと思うのはキラーですね。 斧投げたりゲロまき散らしたり様々な攻撃方法を持つユニークなキャラ。じゃあなんでキラーメインじゃないの?と言われればやはり難しいの一言です。 お、サバイバーがいた→追いかける→やっと吊れたぜ→カチャン、カチャン、後発電機3台 むしろ発電機修理終わってないと｢あれ?まだ終わってないのか｣",
       "ついに10周年をむかえてしまったdbdくん、とりあえずおめでとう！ こんな、がばがばバランスなゲームが10周年！？ と思うのですが、なんだかんだ遊べてしまうのはdbdくんでしか得られない栄養あるからなのでしょう。 他では味わえないゲーム性、雰囲気、緊張感、駆け引き。キャラクターの多さも魅力です。 崩壊気味なゲームバランス、サバイバーに偏った調整、バグの嵐、親の顔より見た煽りに、定期的にやらかす公式、キラー泣かせの理不尽なナーフ……。あとクソでかマップと大量のクソ板もdbdくんの素敵なところですね！（F○CK） そん",
-      "ps4版とsteam版で2周年目〜6周年目くらいまで遊ばせて貰いました。 ゲーム自体は面白いのですが、 必ず付いて回るプレイヤーの民度、SNS等コミュニティツールにおけるキラーとサバイバーの論争、やらないで欲しかったあるいは改悪と感じるアップデートの頻度、バグの頻出、運営の質など ゲーム以外の部分によるマイナスが非常に大きいゲームだと感じます。 サバイバーにもキラーにも民度の低い人達か一定数必ずいて、 プレイするたびに楽しいとストレスが共に蓄積する。 特にキラー専門のプレイヤー達はサバイバー専門のプレイヤーを目の敵"
+      "ps4版とsteam版で2周年目〜6周年目くらいまで遊ばせて貰いました。 ゲーム自体は面白いのですが、 必ず付いて回るプレイヤーの民度、SNS等コミュニティツールにおけるキラーとサバイバーの論争、やらないで欲しかったあるいは改悪と感じるアップデートの頻度、バグの頻出、運営の質など ゲーム以外の部分によるマイナスが非常に大きいゲームだと感じます。 サバイバーにもキラーにも民度の低い人達か一定数必ずいて、 プレイするたびに楽しいとストレスが共に蓄積する。 特にキラー専門のプレイヤー達はサバイバー専門のプレイヤーを目の敵",
+      "ストレスが溜まるだけの全く面白くないゲームです 買わないことを強くおすすめします",
+      "10周年という事で始めてみましたが、タイムトゥーウィンとペイトゥーウィンが同居する狂気の周回ゲーです。 初心者のためにざっと理由を要約します。 １：共通パーク以外のキャラクターの固有パークは最大値の全体解放まで、1人につき300～400万BPかかる。(１試合で平均的に稼げるBPは32000程度) ２：10年の間追加され続けた鯖とキラーのパークに有用なものが固まっている ３：ノーパークでクソBotを相手する雑過ぎるチュートリアル ただ、これらがいま10周年という事もあって引き換えコードで1000万BP配られているので"
     ],
     "price": {
       "isFree": false,
@@ -4778,14 +4781,14 @@
       "supportedLanguages": "英語*, フランス語*, イタリア語, ドイツ語, スペイン語 - スペイン, ロシア語, 中国語（簡体字）, ポルトガル語－ブラジル, タイ語, 中国語（繁体字）, 日本語*, 韓国語, ポーランド語, スペイン語－ラテンアメリカ, トルコ語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 7321,
-      "totalPositive": 4052,
-      "totalNegative": 3269,
+      "totalReviews": 7325,
+      "totalPositive": 4055,
+      "totalNegative": 3270,
       "scoreDescription": "Mixed"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1784216454",
     "steamUrl": "https://store.steampowered.com/app/381210/",
-    "updatedAt": 1784405371
+    "updatedAt": 1784491978
   },
   {
     "appId": 678950,
@@ -4796,7 +4799,6 @@
       "versus"
     ],
     "reviews": [
-      "ドラゴンボールが好きな身としては8年前のゲームとはいえど、格ゲーだけど3Dのようにガシガシ動くしモデルもよくて演出においてはドラゴンボールのゲームとしてはトップクラスだと思う トランクスVS合体ザマスの特殊フィニッシュはまじで見てほしい 格ゲーには詳しくないがDB好きな友達と適当にやるだけでけっこうおもしろい 結構難しいコンボから超必殺につなげてゲージぶっ飛ばしたときは本当に気持ち良い 難点は人口の少なさと情報の少なさ 人口の少なさはsteamDBを見ててもマックス行っても1000人ぐらいなので平気で同じ人と５連続",
       "スパーキングメテオからドラゴンボール作品を久々に購入しました（KAKAROTと一緒に こちらは格ゲーですがストーリーモードやキャラクター掛け合い目的でプレイしています。 なのでオンライン対戦がどうなのかは全くわからないレビューで申し訳ないです。 原作に無かったキャラ同士の掛け合いやIF的展開は、やはり良いですね。"
     ],
     "price": {
@@ -4820,7 +4822,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg?t=1776898545",
     "steamUrl": "https://store.steampowered.com/app/678950/",
-    "updatedAt": 1784405330
+    "updatedAt": 1784491937
   },
   {
     "appId": 1238840,
@@ -4861,7 +4863,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238840/header.jpg?t=1777324289",
     "steamUrl": "https://store.steampowered.com/app/1238840/",
-    "updatedAt": 1784405354
+    "updatedAt": 1784491961
   },
   {
     "appId": 304390,
@@ -4897,7 +4899,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304390/2c22776de84112b1c4f39da2597567bb450386a0/header.jpg?t=1781283400",
     "steamUrl": "https://store.steampowered.com/app/304390/",
-    "updatedAt": 1784405362
+    "updatedAt": 1784491970
   },
   {
     "appId": 1599600,
@@ -4932,7 +4934,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/eb8fa3ad44fb5b4e4de4ef402101a55063797958/header.jpg?t=1777365800",
     "steamUrl": "https://store.steampowered.com/app/1599600/",
-    "updatedAt": 1784405311
+    "updatedAt": 1784491916
   },
   {
     "appId": 397540,
@@ -4967,7 +4969,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg?t=1750802377",
     "steamUrl": "https://store.steampowered.com/app/397540/",
-    "updatedAt": 1784405389
+    "updatedAt": 1784491996
   },
   {
     "appId": 1446780,
@@ -5008,7 +5010,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg?t=1768870444",
     "steamUrl": "https://store.steampowered.com/app/1446780/",
-    "updatedAt": 1784405394
+    "updatedAt": 1784492000
   },
   {
     "appId": 2246340,
@@ -5019,14 +5021,14 @@
       "coop"
     ],
     "reviews": [
-      "起動でクラッシュ マップ開いてクラッシュ クエスト開いてクラッシュ 装備作ろうとしてクラッシュ 狩り終わって報酬もらう前にクラッシュ",
       "まず最初に、ゲーム内容については本当に満足しています。2000時間以上プレイしているのがその証拠ですし、モンハンシリーズの中でも長く遊び続けられる非常に面白い作品だと思っています。 しかし、グラフィックの滑らかさについては最後まで大きな不満が残りました。 私の環境はRTX5090を使用しており、4K・ウルトラ設定・DLSS有効でも300fps前後出ています。それにもかかわらず、実際のプレイ感覚では常にどこかカクついたような違和感があります。 この問題を解決するために、 垂直同期のON/OFF フレームレート制限 モ",
-      "アイスボーンから何も変わってない難易度、グラフィックやUIに関して劣化してる今作。 前半は丁度いい難易度だったんだけど、結局、いつもの見づらい風景と斜面、 使われない広大で無意味なマップ、戦闘スピードの高速化、スキのないモンスターの攻撃。 マルチ又はプロハン前提の難易度の追加モンスター群。 特にオメガとゴグマジオス。オメガはアイスボーンのベヘモスから何にも学んでない。 ゴグマ君に至っては４Gのトロさが嘘のような軽快さとやけくそ火力と地雷、極めつけはずっと飛行してこっちの攻撃をほぼ無効、やってられませんよ。 ラギアの",
-      "今のところ、あまり楽しめていません。 モンスターの数が少なく、やりごたえも物足りなく感じます。ストーリーも長いムービーや強制移動が多く、とてもテンポが悪い印象です。ある程度ゲームを進めてそれらから解放されるまでは、フレンドとのマルチプレイも十分に楽しめる状態ではありませんでした。 プレイ前から耳にしていたUIの見づらさも、実際に遊んでみると想像以上でした。 今後のアップデートや拡張DLCで、こうした問題点が改善されることを期待しています。",
+      "起動でクラッシュ マップ開いてクラッシュ クエスト開いてクラッシュ 装備作ろうとしてクラッシュ 狩り終わって報酬もらう前にクラッシュ",
       "ワールド、アイスボーン、ライズ、サンブレイクしかプレイしていない新参ですがかなり楽しんでプレイできました。 発売前からかなり期待はしておりプレミアムデラックスエディションを購入しました PCスペックは数年前レベルですがプレイ中にゲームが落ちたり、グラフィック崩壊等は特に起こりませんでしたのでSNSで言われているほど不安定とは思いませんでした。 ゲーム内容や、ボリュームは正直物足りなさを感じアップデートが来たら都度プレイするといった感じで正直継続してプレイすることはありませんでした。 現状フルプライスで購入は正直おす",
-      "色々とアップデートで最適化されそれなりにマシになりました。 しかし色々と設定をいじり、中程度の設定でも9070XTが使用率100％に張り付きます。 もうこれは最適化云々の問題ではなく、このゲームの設計が間違ってると思います 個人的にGPU使用率100％で酷使したくないのでアセンダンスで大幅なゲーム全体の再設計に期待します。",
+      "個人的にはすごい面白い！言われてるほどひどくもないと思うけど…「個人的には」って言葉が抜けれない。 よく言われてるクラッシュですが1回だけゲームクラッシュしました（ＰＣはクラッシュしてない元気） この辺は一人一人仕様違うからしょうがないね！（ほかのゲームでもなってるし） でも身だしなみチケットだけは絶対に許さない！！！運営見てるか？？？買い切りでなーんで金取るんですかね？？？？ドラゴンズドグマ2だってファストトラベル無料にしたぞ？？？？見てるか？？？？？ＭＲで絶対直せよ？？？？許さねぇからな！！！！",
+      "アイスボーンから何も変わってない難易度、グラフィックやUIに関して劣化してる今作。 前半は丁度いい難易度だったんだけど、結局、いつもの見づらい風景と斜面、 使われない広大で無意味なマップ、戦闘スピードの高速化、スキのないモンスターの攻撃。 マルチ又はプロハン前提の難易度の追加モンスター群。 特にオメガとゴグマジオス。オメガはアイスボーンのベヘモスから何にも学んでない。 ゴグマ君に至っては４Gのトロさが嘘のような軽快さとやけくそ火力と地雷、極めつけはずっと飛行してこっちの攻撃をほぼ無効、やってられませんよ。 ラギアの",
       "拡張コンテンツのアセンダンスが発売され最終アップデートが入ってからプレーすることをお勧めする 発売日にフルプライズで購入しアプデ第一弾まで約200時間プレイしたが、まず最適化されたアプデが2026年1月とのこと ただし6月現在も最適化できていないとの話もあるのでPCが大事なのであればスルー推奨 当時インテルCPU13世代14世代の問題もあったが、クラッシュ時、カプコンのクラッシュレポート送信してもサイトで「CPUが問題でクラッシュしますので自分でBIOSのアプデしてね」とアナウンスは無かった （通常BIOSのアプデ",
-      "おすすめ出来ません 今後絶対的な安心が無い限りアプリ自体を開くことは無いでしょう。 ワイルズ発売からおよそ一年が経過し様々なアップデートがなされ改善がなされたはずのワイルズですが 非常に残念ながらゲームとして、そもそも商品として不出来でお粗末としか言えません。 何故そう思うのか？高々４時間程度しかプレイしてないニワカが何を抜かすのかと思う方もいるかもしれません。 始めに言っておきますと私はモンハンアンチではありません２G、３、４、４G、X、ＸＸ、ワールド、ライズをプレイしたモンハンが好きな一般プレイヤーです。 半額"
+      "おすすめ出来ません 今後絶対的な安心が無い限りアプリ自体を開くことは無いでしょう。 ワイルズ発売からおよそ一年が経過し様々なアップデートがなされ改善がなされたはずのワイルズですが 非常に残念ながらゲームとして、そもそも商品として不出来でお粗末としか言えません。 何故そう思うのか？高々４時間程度しかプレイしてないニワカが何を抜かすのかと思う方もいるかもしれません。 始めに言っておきますと私はモンハンアンチではありません２G、３、４、４G、X、ＸＸ、ワールド、ライズをプレイしたモンハンが好きな一般プレイヤーです。 半額",
+      "今のところ、あまり楽しめていません。 モンスターの数が少なく、やりごたえも物足りなく感じます。ストーリーも長いムービーや強制移動が多く、とてもテンポが悪い印象です。ある程度ゲームを進めてそれらから解放されるまでは、フレンドとのマルチプレイも十分に楽しめる状態ではありませんでした。 プレイ前から耳にしていたUIの見づらさも、実際に遊んでみると想像以上でした。 今後のアップデートや拡張DLCで、こうした問題点が改善されることを期待しています。"
     ],
     "price": {
       "isFree": false,
@@ -5042,14 +5044,14 @@
       "supportedLanguages": "英語*, フランス語*, イタリア語*, ドイツ語*, スペイン語 - スペイン*, アラビア語, スペイン語－ラテンアメリカ*, ポルトガル語－ブラジル*, ポーランド語, ロシア語*, 中国語（簡体字）*, 中国語（繁体字）, 日本語*, 韓国語, タイ語*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 19602,
-      "totalPositive": 5947,
-      "totalNegative": 13655,
+      "totalReviews": 19604,
+      "totalPositive": 5951,
+      "totalNegative": 13653,
       "scoreDescription": "Mostly Negative"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1781071959",
     "steamUrl": "https://store.steampowered.com/app/2246340/",
-    "updatedAt": 1784405395
+    "updatedAt": 1784492001
   },
   {
     "appId": 582010,
@@ -5066,8 +5068,8 @@
       "マップが広大で探索のし甲斐があること、モンスターや環境生物の生態描写が細かく狩猟以外で探索に行く際つい見入ってしまうこと、ストーリーも面白くプレイヤーも登場人物の一人になった気分になってしまうことが大きいです。武器の見た目が少し気になりますが特に問題はない感じです。",
       "ソロ、オンラインに加え多種多様なモンスター、それを攻略するために武器や防具などを作成し強化していく工程がとても面白いです。 ムービーがスキップできないところが残念です。（2週目以降はあまりムービーを見たくないです。。。）",
       "アクションゲームとして人気な作品だが自然の世界を描いたゲームが好きな人にもおすすめ （ピ◯ミンみたいなゲームが好きな人とか） 歩くだけで楽しいフィールドデザインや、新規モンスターの生態とそれに対応した戦闘システムがよくできている すごく楽しい あらゆるデザインが凝っていて、設定資料集はアイスボーンも含めてなんと1140ページもある ストーリーも新大陸を理解しつつ生態系を調査していくのはとてもワクワクして楽しい いつまでもこの世界に入り込んでいたいと思える それくらい好きです しかし残念なことに、上位に入り古龍ラッシ",
-      "しっかり最高画質最高設定でも100fpsでていい感じフレーム生成で240fps",
-      "一般的な区分としてはMHW以降を新世代モンハンとする区分があるようですが、個人的にはMHWまで旧世代モンハンであると思います。 従来作品の面倒な部分は残したまま、モンスターの動作速度を上げることで難易度を理不尽に上げている部分も多く、ゲームプレイに楽しさが感じられません。モンハンの醍醐味である狩猟→装備作成のループも、「敵が移動し続けるだけの退屈な時間」「報酬の渋さ」という2点からモチベーション維持が極めて難しいです。 MHR、MHWildsといった後続の作品がある以上、今からMHWを購入することはおすすめできませ"
+      "飛んでるモンスターが最初から最後まで強い",
+      "しっかり最高画質最高設定でも100fpsでていい感じフレーム生成で240fps"
     ],
     "price": {
       "isFree": false,
@@ -5083,14 +5085,14 @@
       "supportedLanguages": "英語*, フランス語*, イタリア語*, ドイツ語*, スペイン語 - スペイン*, アラビア語, ポルトガル語－ブラジル, ポーランド語, 中国語（繁体字）, 日本語*, 韓国語, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ*フル音声対応言語"
     },
     "reviewSummary": {
-      "totalReviews": 4890,
-      "totalPositive": 3759,
-      "totalNegative": 1131,
+      "totalReviews": 4893,
+      "totalPositive": 3761,
+      "totalNegative": 1132,
       "scoreDescription": "Mostly Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1773328926",
     "steamUrl": "https://store.steampowered.com/app/582010/",
-    "updatedAt": 1784405392
+    "updatedAt": 1784491999
   },
   {
     "appId": 359550,
@@ -5106,10 +5108,10 @@
       "発売当初は「なりきり特殊部隊」を売りに硬派な屋内FPSだった、キャラの役割分担も明確で誰がなにをピックアップするかなど戦術的楽しさもある。 マップ構造は特殊で複数階の構造、把握するまでにかなりの時間がかかると思う。 つまりスタートラインに立つまでのプレイ時間は他のゲームと比べて多い。 そして発売から１１年が経った今「なりきり特殊部隊」のウリはなくなった。 キャラが増えすぎたのと個性を持たせるために持たせたそれぞれの能力がギャグみたい。 スキンもアニメみたいなギャグ要素が増えた。 全体的なプレイヤーレベルが高いので新",
       "FPSのスマブラ。キャラの選択肢と自由度でいえばこれ以上のものはない。",
       "ゲーム性はどのFPSよりも面白いけど運営はどのFPSよりもひどい それでも、ゲーム性の面白さ自体は維持しつづけてるからおすすめできる フレンドはいたほうがもちろんいいが、このゲームはヴァロみたいな役割固定型ではなく何者にでもなれるcs2みたいな感じなので比較的ソロでも勝ちやすくて楽しめると思います 最後に初心者さんにアドバイスすると、補強とか工事はわからなかったらそのままノータッチでおっけー、自分しか守らなさそうなところで補強・工事に手を出して自分が守りやすいようにやっていけばいいと思います！",
-      "サーバー貧弱すぎて頻繁にエラー落ちさせられる もちろん評価は低下する",
-      "Please stop adding unfinished maps every new season and making them unbanable. This game's ranking system is terrible. Map selection should be optional.",
       "---{Graphics}--- ☐ You forget what reality is ☑ Beautiful ☐ Good ☐ Decent ☐ Don‘t look too long at it ☐ Paint.exe ---{Gameplay}--- ☐ Very good ☐ Good ☐ It‘s just gameplay ☑ Mehh ☐ Starring at walls is better ☐ Just don‘t ---{Audio}--- ☐ Eargasm ☐ Very good ☐ G",
-      "このゲームは一人でやるゲームではない気はする。一人でやるのもいいけどランクこだわったら絶対2₋５人で回した方がいい。まったくＦＰＳやったことない人を誘ってコツコツ頑張ってみるのも楽しいですよ。 あと昔見たいにチームキルや除外投票で初見お断り文化は評価システムが追加されてすごく減りました。 キャラ調整も申し分ないです、、、多分。。。 チーターも昔よりは相当減りました。アンチリコイルは結構いるけど撃ち合いは全然勝てると思います。 唯一不満なのはマーケットプレイスと限定スキンの価値を壊滅的にさせたことです。 スキンに関し"
+      "このゲームは一人でやるゲームではない気はする。一人でやるのもいいけどランクこだわったら絶対2₋５人で回した方がいい。まったくＦＰＳやったことない人を誘ってコツコツ頑張ってみるのも楽しいですよ。 あと昔見たいにチームキルや除外投票で初見お断り文化は評価システムが追加されてすごく減りました。 キャラ調整も申し分ないです、、、多分。。。 チーターも昔よりは相当減りました。アンチリコイルは結構いるけど撃ち合いは全然勝てると思います。 唯一不満なのはマーケットプレイスと限定スキンの価値を壊滅的にさせたことです。 スキンに関し",
+      "難しいが楽しい。単なるFPSではなく、タクティカルFPSなので、楽しい。だいたいクリアランス100超えてからが一人前みたいなところがある。Youtubeで上手な人を参考にマネしながらだと、早く上手くなれる。",
+      "しーじむらのおともだちたちは、きょうもげんき！ たてものに「あな」をあけたり 「すまほ」をばくはつさせたり やっつけたてきさんを「はちのす」にしたり.... きみもこんなむらのみんなとたのしくあそぼう！"
     ],
     "price": {
       "isFree": true,
@@ -5126,13 +5128,13 @@
     },
     "reviewSummary": {
       "totalReviews": 5570,
-      "totalPositive": 3928,
-      "totalNegative": 1642,
+      "totalPositive": 3927,
+      "totalNegative": 1643,
       "scoreDescription": "Mostly Positive"
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/d553dc36865499a3bedf23008954b98b50012c3b/header_alt_assets_24_japanese.jpg?t=1784137517",
     "steamUrl": "https://store.steampowered.com/app/359550/",
-    "updatedAt": 1784405350
+    "updatedAt": 1784491957
   },
   {
     "appId": 1286680,
@@ -5168,7 +5170,7 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg?t=1737970341",
     "steamUrl": "https://store.steampowered.com/app/1286680/",
-    "updatedAt": 1784405390
+    "updatedAt": 1784491997
   },
   {
     "appId": 1778820,
@@ -5186,7 +5188,7 @@
       "実際にプレイしていて、強さを実感しやすい格ゲーです。 技数が多い、コンボが難しいという印象のゲームだと思いますが、実際、技数は思った程多いと感じませんし、好きな技を数個覚えておけば良いだけです。 コンボも練習すれば普通に出来る難易度です。 リアルさ、強さ、カッコよさを求めている方は鉄拳がおすすめです。",
       "大体格闘ゲームはスト２かキングオブファイターズかよくゲームセンターでプレイしました。今回鉄拳８をプレイしてみて淡々とキャラクターもそろえてた気がするなー。バージョンアップのため省略感を感じたが・・・。プレイステーションが出たころはかなりすごいと思っていましたよ、今はもう出てるタイトル数多くてやったいる暇がないくらいで困りますよね・・・。ありがとうおつかれです！！",
       "かなり久々の鉄拳でしたが、自分の持ちキャラでも まだ戦えて爽快感もありました。",
-      "技のあたり判定クソ カメラワーククソ（急に左右入れ替わる） ストレスを溜めたくないならおすすめできません"
+      "本当に難しいゲーム じっくりストレスをかけながら努力(座学、トレーニング、実戦)した分だけ強くなれるというストイックさがある そういうものが好きな人にはおすすめ (ゲームでそれをやるくらいなら現実で何か始めた方が生産的かもしれないが) あとプレイヤーの\"あかん人\"率が高い"
     ],
     "price": {
       "isFree": false,
@@ -5209,6 +5211,6 @@
     },
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/8518523e6bea615ba8127c6fc215fd1eac966501/header.jpg?t=1782460158",
     "steamUrl": "https://store.steampowered.com/app/1778820/",
-    "updatedAt": 1784405327
+    "updatedAt": 1784491932
   }
 ]
